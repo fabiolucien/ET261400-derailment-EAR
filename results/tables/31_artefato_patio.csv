@@ -1,0 +1,4 @@
+conferencia,celula_do_patio,demais_celulas,eventos,km_atingidos,rr_patio_na_celula,rr_ate_1km,rr_1_a_1_5km
+(a) parcela de km inteiros,0.2541436464088398,0.2862488306828812,,,,,
+(b) sem eventos no km exato do pátio,,,2589.0,2072.0,1.7217340127188372,1.8703839084241936,1.167561438477997
+(c) sem eventos dentro da zona do pátio,,,2284.0,1857.0,0.690221567472785,1.8145260461471802,1.1029142124062803

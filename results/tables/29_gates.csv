@@ -1,0 +1,23 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+G1 células em operação,20936.0,20936,0.0,True,notebook 11
+"G2 km com descarrilamento por via, 2011 a 2025",2123.0,2123,0.0,True,notebook 11
+G3 regra do EAR (FICO) reconstruída,0.588,0.588,0.002,True,notebooks 24 e 27
+G5 Bitola: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Velocidade máxima carregado (km/h): células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Rampa máxima (%): células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Carga por eixo (t): células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Tráfego (trens por dia vinculados): células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Dormente: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Trilho: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Fixação: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Taxa de dormentação (por km): células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Sinalização: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Produto perigoso: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G5 Número de linhas: células por classe somam a malha,20936.0,20936,0.0,True,definição
+G4 RR da classe de referência,1.0,1.0,1e-09,True,definição
+G6 placebo: maior ganho médio com o fator embaralhado dentro da malha,0.001,"[0.0, 0.01]",,True,acaso
+"reprodução do artigo: contínuos + atributos − contínuos, dentro das malhas",0.009,0.009,0.003,True,"24_diferencas.csv (+0,009)"

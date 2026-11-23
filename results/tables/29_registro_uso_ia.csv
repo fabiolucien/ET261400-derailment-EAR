@@ -1,0 +1,6 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-23,29.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-23,29.1 classes,Claude,FOCUS: classes de cada fator por cortes de projeto declarados antes,dicionário FAT,somas
+2026-11-23,29.2 risco relativo,Claude,"FOCUS: Mantel-Haenszel por malha, faixa de pátio e classe de raio; IC por 300 reamostragens de linhas",29_risco_relativo_fatores.csv,referência = 1
+2026-11-23,29.3 ganho e decisão,Claude,FOCUS: base = faixas aferidas com pesos aprendidos; base + fator; 30 sorteios; IC por linhas; malha inteira fora; regra de decisão declarada antes,"29_ganho_por_sorteio.csv, 29_malha_fora.csv, 29_decisao_fatores.csv",placebo e referência
+2026-11-23,29.4 conciliação,Claude,FOCUS: critérios contínuos com e sem efeito fixo de malha e tráfego; mesmo protocolo; IC por linhas,29_conciliacao_artigo.csv,"reproduz o +0,009 do artigo"

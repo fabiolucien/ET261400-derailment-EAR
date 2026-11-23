@@ -1,0 +1,6 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-23,30.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-23,30.1 trechos fora,Claude,FOCUS: limites reescolhidos em cada dobra; multiplicadores só no ajuste; 30 sorteios; IC por linhas,"30_resumo.csv, 30_diferencas.csv",placebo
+2026-11-23,30.2 ferrovia nova,Claude,"FOCUS: cada malha fora, limites e multiplicadores sem ela; AUC dentro das linhas; IC pareado por linhas; teste de sinal",30_malha_fora*.csv,G1 e G2
+2026-11-23,30.3 parâmetros,Claude,FOCUS: multiplicadores com IC por linhas; efeitos aleatórios por malha com intervalo de predição; classes por extensão dentro da malha,"30_parametros_ear_v3.csv, 30_classes_dentro_da_malha.csv","G4, G5 e G7"
+2026-11-23,30.4 Norte-Sul,Claude,FOCUS: modelo ajustado sem a FNSTN aplicado a ela; IC de Hanley e McNeil,30_aplicacao_fns.csv,mesma resposta e mesma extensão

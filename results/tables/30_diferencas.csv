@@ -1,0 +1,6 @@
+comparacao,dif_pais,ic_pais,sorteios_com_ganho_pais,dif_malha,ic_malha,sorteios_com_ganho_malha
+B A + tráfego − A pátio e raio,-0.01,-0.044 a 0.020,0,0.019,0.005 a 0.041,30
+B A + tráfego − regra FICO,0.038,-0.010 a 0.081,30,0.089,0.040 a 0.123,30
+B A + tráfego − regra aferida (reescolhida),0.015,-0.026 a 0.057,30,0.072,0.020 a 0.115,30
+D A + tráfego + carga − B A + tráfego,-0.056,-0.084 a -0.023,0,-0.002,-0.009 a 0.003,3
+J logística conjunta (classes de B) − B A + tráfego,0.041,-0.009 a 0.096,30,-0.024,-0.043 a -0.004,0

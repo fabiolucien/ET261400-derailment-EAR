@@ -1,11 +1,11 @@
 data,passo,ferramenta,especificacao,resultado,verificacao
-2026-11-22,27.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
-2026-11-22,27.1 parâmetros,Claude,FOCUS: transcrever as faixas dos dois EAR públicos e reconstruir as duas regras,27_parametros_ear_fns_fico.csv,regra FICO idêntica à B2
-2026-11-22,27.2 perfil brasileiro,Claude,"FOCUS: risco relativo dentro das malhas (Mantel-Haenszel), IC por linhas","27_perfil_distancia_patio.csv, 27_perfil_raio.csv",somas e referência
-2026-11-22,27.3 extensão física (EUA),Claude,"FOCUS: veículos descarrilados como fração do trem, convertidos para o trem-tipo de 1.690 m",27_fra_extensao_descarrilamento.csv,contagens do recorte
-2026-11-22,27.4 recalibração aninhada,Claude,"FOCUS: faixas, classes de raio e peso escolhidos só nos grupos de ajuste; pontos inteiros da EAR v2","27_regras_resumo.csv, 27_parametros_escolhidos.csv",regra e logística iguais aos notebooks 11 e 24
-2026-11-22,27.4b sensibilidade da faixa externa,Claude,FOCUS: repetir a recalibração sem o limite de dois trens-tipo,27_sensibilidade_faixa_externa.csv,registro das escolhas
-2026-11-22,27.4c células longe de pátios,Claude,FOCUS: repetir a AUC dentro das malhas sem os trechos longos sem pátio,27_celulas_ate_20km.csv,contagem
-2026-11-22,27.5 diferenças,Claude,"FOCUS: IC por reamostragem de linhas inteiras, como nos notebooks 24 e 25",27_diferencas.csv,mesmos sorteios
-2026-11-22,27.6 conferência temporal,Claude,FOCUS: aferir com 2011 a 2018 e conferir com 2019 a 2025 em trechos não vistos,27_conferencia_temporal.csv,contagem
-2026-11-22,27.8 parâmetros finais,Claude,FOCUS: parâmetros mais escolhidos nos 150 ajustes e pontos na malha inteira,"27_parametros_recalibrados.csv, 27_pontos_ear_v2.csv",itens 4 a 7
+2026-11-23,27.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-23,27.1 parâmetros,Claude,FOCUS: transcrever as faixas dos dois EAR públicos e reconstruir as duas regras,27_parametros_ear_fns_fico.csv,regra FICO idêntica à B2
+2026-11-23,27.2 perfil brasileiro,Claude,"FOCUS: risco relativo dentro das malhas (Mantel-Haenszel), IC por linhas","27_perfil_distancia_patio.csv, 27_perfil_raio.csv",somas e referência
+2026-11-23,27.3 extensão física (EUA),Claude,"FOCUS: veículos descarrilados como fração do trem, convertidos para o trem-tipo de 1.690 m",27_fra_extensao_descarrilamento.csv,contagens do recorte
+2026-11-23,27.4 recalibração aninhada,Claude,"FOCUS: faixas, classes de raio e peso escolhidos só nos grupos de ajuste; pontos inteiros da EAR v2","27_regras_resumo.csv, 27_parametros_escolhidos.csv",regra e logística iguais aos notebooks 11 e 24
+2026-11-23,27.4b sensibilidade da faixa externa,Claude,FOCUS: repetir a recalibração sem o limite de dois trens-tipo,27_sensibilidade_faixa_externa.csv,registro das escolhas
+2026-11-23,27.4c células longe de pátios,Claude,FOCUS: repetir a AUC dentro das malhas sem os trechos longos sem pátio,27_celulas_ate_20km.csv,contagem
+2026-11-23,27.5 diferenças,Claude,"FOCUS: IC por reamostragem de linhas inteiras, como nos notebooks 24 e 25",27_diferencas.csv,mesmos sorteios
+2026-11-23,27.6 conferência temporal,Claude,FOCUS: aferir com 2011 a 2018 e conferir com 2019 a 2025 em trechos não vistos,27_conferencia_temporal.csv,contagem
+2026-11-23,27.8 parâmetros finais,Claude,FOCUS: parâmetros mais escolhidos nos 150 ajustes e pontos na malha inteira,"27_parametros_recalibrados.csv, 27_pontos_ear_v2.csv",itens 4 a 7

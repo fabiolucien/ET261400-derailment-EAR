@@ -1,0 +1,9 @@
+escore,auc_malha_fora_ate_20km,malhas_acima_da_FICO,malhas
+A pátio e raio,0.6210764017964432,10,12
+B A + tráfego,0.6454015311998225,11,12
+C A + carga por eixo,0.6105887219881231,8,12
+D A + tráfego + carga,0.6410501515478773,11,12
+J logística conjunta (classes de B),0.6027507977847606,6,12
+regra aferida (reescolhida),0.6177208498271083,9,12
+regra FICO,0.5958051607256808,0,12
+logística com atributos,0.6139877572660378,7,12

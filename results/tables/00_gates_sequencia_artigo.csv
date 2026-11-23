@@ -99,3 +99,56 @@ notebook,gate,got,expected,tol,ok,source
 27,células a até 20 km de um pátio,17985.0,17985,0.0,True,definição
 27,quilômetros com descarrilamento em 2019 a 2025,745.0,745,0.0,True,notebook 11
 27,vazamento: EAR v2 com rótulos embaralhados,0.508,"[0.45, 0.55]",,True,acaso
+28,células em operação,20936.0,20936,0.0,True,notebook 11
+28,descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+28,quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+28,regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+28,G1 trechos divididos entre grupos (todos os sorteios),0.0,0,0.0,True,definição do protocolo
+28,G2 células avaliadas por sorteio,20936.0,20936,0.0,True,notebook 11
+28,G3 mínimo de km atingidos em um grupo,310.0,"[100, 2123]",,True,2.123 / 5 = 425 em média
+28,G4 regra do EAR (FICO),0.588,0.588,0.002,True,notebook 24 e dissertação v4
+28,"G5 logística com atributos, média de 30 sorteios",0.759,0.759,0.002,True,24_modelos_resumo.csv
+28,G6 média da AUC com rótulos embaralhados,0.499,"[0.45, 0.55]",,True,"acaso = 0,50"
+29,células em operação,20936.0,20936,0.0,True,notebook 11
+29,descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+29,quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+29,regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+29,G1 células em operação,20936.0,20936,0.0,True,notebook 11
+29,"G2 km com descarrilamento por via, 2011 a 2025",2123.0,2123,0.0,True,notebook 11
+29,G3 regra do EAR (FICO) reconstruída,0.588,0.588,0.002,True,notebooks 24 e 27
+29,G5 Bitola: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Velocidade máxima carregado (km/h): células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Rampa máxima (%): células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Carga por eixo (t): células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Tráfego (trens por dia vinculados): células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Dormente: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Trilho: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Fixação: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Taxa de dormentação (por km): células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Sinalização: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Produto perigoso: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G5 Número de linhas: células por classe somam a malha,20936.0,20936,0.0,True,definição
+29,G4 RR da classe de referência,1.0,1.0,1e-09,True,definição
+29,G6 placebo: maior ganho médio com o fator embaralhado dentro da malha,0.001,"[0.0, 0.01]",,True,acaso
+29,"reprodução do artigo: contínuos + atributos − contínuos, dentro das malhas",0.009,0.009,0.003,True,"24_diferencas.csv (+0,009)"
+30,células em operação,20936.0,20936,0.0,True,notebook 11
+30,descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+30,quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+30,regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+30,G3 variante B com rótulos embaralhados (média de 5),0.501,"[0.45, 0.55]",,True,acaso
+30,"G1 logística com atributos, malha inteira fora (média ponderada)",0.633,0.633,0.002,True,24_malha_fora.csv
+30,"G2 regra FICO, malha inteira fora (média ponderada)",0.589,0.589,0.002,True,24_malha_fora.csv
+30,G6 menor número de km atingidos numa classe de B (toda a malha),1.0,1,0.0,True,"o piso de 0,05 não atua em B"
+30,G7 meta-análise de estimativas idênticas: tau²,0.0,0.0,1e-09,True,definição
+30,G4 multiplicador da classe de referência,1.0,1.0,1e-09,True,definição
+30,G5 classes do mapa somam a extensão (variante B),1.0,1.0,1e-06,True,definição
+31,células em operação,20936.0,20936.0,0.0,True,notebook 11
+31,descarrilamentos por via,2681.0,2681.0,0.0,True,notebook 11
+31,quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123.0,0.0,True,notebook 11
+31,regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+31,G5 eventos da janela,2681.0,2681.0,0.0,True,notebook 11
+31,"G1 sem erro, eventos na célula original",2681.0,2681.0,0.0,True,definição
+31,G2 km atingidos sem erro,2123.0,2123.0,0.0,True,notebook 11
+31,"G3 regra FICO, AUC dentro das malhas sem erro",0.589,0.589,0.002,True,27_regras_resumo.csv
+31,G4 deslocamento zero reproduz a distância ao pátio,0.0,0.0,1e-09,True,definição
+31,G6 SIMEX: nível zero igual ao RR observado da célula do pátio,1.969,1.969,1e-09,True,definição

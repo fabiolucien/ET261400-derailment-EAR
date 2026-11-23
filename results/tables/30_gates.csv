@@ -1,0 +1,12 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+G3 variante B com rótulos embaralhados (média de 5),0.501,"[0.45, 0.55]",,True,acaso
+"G1 logística com atributos, malha inteira fora (média ponderada)",0.633,0.633,0.002,True,24_malha_fora.csv
+"G2 regra FICO, malha inteira fora (média ponderada)",0.589,0.589,0.002,True,24_malha_fora.csv
+G6 menor número de km atingidos numa classe de B (toda a malha),1.0,1,0.0,True,"o piso de 0,05 não atua em B"
+G7 meta-análise de estimativas idênticas: tau²,0.0,0.0,1e-09,True,definição
+G4 multiplicador da classe de referência,1.0,1.0,1e-09,True,definição
+G5 classes do mapa somam a extensão (variante B),1.0,1.0,1e-06,True,definição

@@ -1,5 +1,5 @@
 data,passo,ferramenta,especificacao,resultado,verificacao
-2026-11-22,24.1 dados e funções,Claude,FOCUS: mesmas funções e mesma matriz do notebook 23,"design, auc, lr",gates de contagem
-2026-11-22,26.1 desenho conjunto,Claude,FOCUS: origem móvel com trechos fora do ajuste; mesmas funções dos notebooks 21 e 24,26_conjunto_resumo.csv,3 gates contra o notebook 18
-2026-11-22,26.2 calibração,Claude,FOCUS: Brier e inclinação de calibração das notas fora do ajuste,26_calibracao.csv,gate de definição
-2026-11-22,26.3 mesma cobertura,Claude,"FOCUS: abstenção do TF-IDF pela menor confiança, na cobertura do Sonnet",26_tfidf_mesma_cobertura.csv,3 gates contra o notebook 04b
+2026-11-23,24.1 dados e funções,Claude,FOCUS: mesmas funções e mesma matriz do notebook 23,"design, auc, lr",gates de contagem
+2026-11-23,26.1 desenho conjunto,Claude,FOCUS: origem móvel com trechos fora do ajuste; mesmas funções dos notebooks 21 e 24,26_conjunto_resumo.csv,3 gates contra o notebook 18
+2026-11-23,26.2 calibração,Claude,FOCUS: Brier e inclinação de calibração das notas fora do ajuste,26_calibracao.csv,gate de definição
+2026-11-23,26.3 mesma cobertura,Claude,"FOCUS: abstenção do TF-IDF pela menor confiança, na cobertura do Sonnet",26_tfidf_mesma_cobertura.csv,3 gates contra o notebook 04b

@@ -1,0 +1,4 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-23,31.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-23,31 Monte Carlo de posição,Claude,"FOCUS: cinco cenários de erro de posição declarados antes, 200 réplicas cada; limites, risco relativo e ganho por réplica","31_replicas.csv, 31_resumo_monte_carlo.csv, 31_frequencia_limites.csv",5 gates
+2026-11-23,31.2 SIMEX e artefato de pátio,Claude,FOCUS: SIMEX com quatro níveis de erro adicional e extrapolação quadrática; três conferências do artefato de pátio declaradas antes,"31_simex.csv, 31_artefato_patio.csv",nível zero igual ao RR observado

@@ -1,0 +1,4 @@
+comparacao,ganho_malhas,ic_inf,ic_sup,sorteios_com_ganho
+contínuos + malha + tráfego − contínuos + malha,0.020158538978984807,0.005531591076558519,0.04107966320065795,30
+contínuos + atributos (artigo) − contínuos,0.00852105016410171,-0.016649042001212738,0.03405100107454252,30
+contínuos + atributos + malha − contínuos + malha,0.01223728376317067,-0.009235606348340348,0.02740430191436858,30
