@@ -1,0 +1,71 @@
+,,,auc,auc,auc,auc_dentro,auc_dentro,auc_dentro,classe_muito_alta,classe_muito_alta,classe_muito_alta,n
+,,,mean,min,max,mean,min,max,mean,min,max,
+desenho,rotulo,metodo,,,,,,,,,,
+"D1 origem móvel, janela expansiva",H=1,Regra do EAR por faixas,0.582,0.559,0.629,0.577,0.55,0.633,0.28,0.217,0.364,11
+"D1 origem móvel, janela expansiva",H=1,Dummy: taxa da malha,0.682,0.594,0.749,0.5,0.5,0.5,0.347,0.218,0.441,11
+"D1 origem móvel, janela expansiva",H=1,EAR calibrado (atributos da via),0.753,0.697,0.807,0.673,0.632,0.709,0.542,0.428,0.65,11
+"D1 origem móvel, janela expansiva",H=1,EAR calibrado + histórico de acidentes,0.781,0.734,0.847,0.7,0.666,0.719,0.593,0.494,0.719,11
+"D1 origem móvel, janela expansiva",H=2,Regra do EAR por faixas,0.583,0.565,0.616,0.579,0.558,0.614,0.277,0.228,0.362,10
+"D1 origem móvel, janela expansiva",H=2,Dummy: taxa da malha,0.682,0.609,0.745,0.5,0.5,0.5,0.345,0.263,0.439,10
+"D1 origem móvel, janela expansiva",H=2,EAR calibrado (atributos da via),0.749,0.709,0.801,0.668,0.646,0.697,0.535,0.45,0.629,10
+"D1 origem móvel, janela expansiva",H=2,EAR calibrado + histórico de acidentes,0.787,0.746,0.838,0.704,0.684,0.738,0.604,0.514,0.731,10
+"D1 origem móvel, janela expansiva",H=3,Regra do EAR por faixas,0.583,0.565,0.607,0.58,0.56,0.604,0.273,0.23,0.355,9
+"D1 origem móvel, janela expansiva",H=3,Dummy: taxa da malha,0.683,0.602,0.741,0.5,0.5,0.5,0.349,0.267,0.435,9
+"D1 origem móvel, janela expansiva",H=3,EAR calibrado (atributos da via),0.749,0.714,0.789,0.665,0.655,0.684,0.532,0.464,0.612,9
+"D1 origem móvel, janela expansiva",H=3,EAR calibrado + histórico de acidentes,0.791,0.748,0.828,0.706,0.675,0.722,0.604,0.488,0.683,8
+"D1 origem móvel, janela expansiva",H=4,Regra do EAR por faixas,0.582,0.568,0.601,0.581,0.564,0.598,0.271,0.232,0.336,8
+"D1 origem móvel, janela expansiva",H=4,Dummy: taxa da malha,0.685,0.614,0.733,0.5,0.5,0.5,0.353,0.275,0.418,8
+"D1 origem móvel, janela expansiva",H=4,EAR calibrado (atributos da via),0.746,0.71,0.79,0.663,0.65,0.682,0.525,0.459,0.609,8
+"D1 origem móvel, janela expansiva",H=4,EAR calibrado + histórico de acidentes,0.796,0.758,0.831,0.712,0.687,0.732,0.618,0.527,0.686,6
+"D1 origem móvel, janela expansiva",H=5,Regra do EAR por faixas,0.583,0.567,0.597,0.582,0.563,0.595,0.27,0.234,0.329,7
+"D1 origem móvel, janela expansiva",H=5,Dummy: taxa da malha,0.683,0.624,0.731,0.5,0.5,0.5,0.355,0.285,0.406,7
+"D1 origem móvel, janela expansiva",H=5,EAR calibrado (atributos da via),0.742,0.711,0.775,0.66,0.654,0.663,0.517,0.466,0.589,7
+"D1 origem móvel, janela expansiva",H=5,EAR calibrado + histórico de acidentes,0.794,0.755,0.829,0.71,0.679,0.732,0.605,0.505,0.689,4
+"D2 origem móvel, janela fixa","W=3, H=1",Regra do EAR por faixas,0.586,0.559,0.631,0.581,0.55,0.633,0.285,0.217,0.364,12
+"D2 origem móvel, janela fixa","W=3, H=1",Dummy: taxa da malha,0.694,0.621,0.806,0.5,0.5,0.5,0.398,0.218,0.561,12
+"D2 origem móvel, janela fixa","W=3, H=1",EAR calibrado (atributos da via),0.767,0.72,0.835,0.685,0.655,0.704,0.544,0.452,0.662,12
+"D2 origem móvel, janela fixa","W=3, H=3",Regra do EAR por faixas,0.585,0.565,0.607,0.582,0.56,0.604,0.281,0.23,0.355,10
+"D2 origem móvel, janela fixa","W=3, H=3",Dummy: taxa da malha,0.689,0.631,0.777,0.5,0.5,0.5,0.37,0.267,0.524,10
+"D2 origem móvel, janela fixa","W=3, H=3",EAR calibrado (atributos da via),0.758,0.702,0.805,0.673,0.657,0.681,0.529,0.456,0.604,10
+"D2 origem móvel, janela fixa","W=3, H=5",Regra do EAR por faixas,0.585,0.567,0.601,0.584,0.563,0.597,0.279,0.234,0.337,8
+"D2 origem móvel, janela fixa","W=3, H=5",Dummy: taxa da malha,0.682,0.639,0.747,0.5,0.5,0.5,0.363,0.285,0.434,8
+"D2 origem móvel, janela fixa","W=3, H=5",EAR calibrado (atributos da via),0.751,0.699,0.794,0.673,0.654,0.687,0.516,0.448,0.597,8
+"D2 origem móvel, janela fixa","W=5, H=1",Regra do EAR por faixas,0.581,0.559,0.629,0.576,0.55,0.633,0.272,0.217,0.358,10
+"D2 origem móvel, janela fixa","W=5, H=1",Dummy: taxa da malha,0.705,0.594,0.808,0.5,0.5,0.5,0.405,0.218,0.561,10
+"D2 origem móvel, janela fixa","W=5, H=1",EAR calibrado (atributos da via),0.77,0.703,0.832,0.684,0.646,0.709,0.569,0.434,0.705,10
+"D2 origem móvel, janela fixa","W=5, H=3",Regra do EAR por faixas,0.58,0.565,0.6,0.577,0.56,0.597,0.263,0.23,0.322,8
+"D2 origem móvel, janela fixa","W=5, H=3",Dummy: taxa da malha,0.704,0.602,0.776,0.5,0.5,0.5,0.404,0.267,0.524,8
+"D2 origem móvel, janela fixa","W=5, H=3",EAR calibrado (atributos da via),0.766,0.714,0.809,0.679,0.661,0.695,0.552,0.467,0.638,8
+"D2 origem móvel, janela fixa","W=5, H=5",Regra do EAR por faixas,0.581,0.567,0.596,0.58,0.563,0.595,0.261,0.234,0.302,6
+"D2 origem móvel, janela fixa","W=5, H=5",Dummy: taxa da malha,0.699,0.624,0.767,0.5,0.5,0.5,0.399,0.3,0.496,6
+"D2 origem móvel, janela fixa","W=5, H=5",EAR calibrado (atributos da via),0.759,0.72,0.801,0.675,0.662,0.69,0.535,0.472,0.631,6
+"D2 origem móvel, janela fixa","W=7, H=1",Regra do EAR por faixas,0.572,0.559,0.604,0.565,0.55,0.604,0.253,0.217,0.301,8
+"D2 origem móvel, janela fixa","W=7, H=1",Dummy: taxa da malha,0.724,0.627,0.808,0.5,0.5,0.5,0.447,0.277,0.561,8
+"D2 origem móvel, janela fixa","W=7, H=1",EAR calibrado (atributos da via),0.777,0.697,0.843,0.684,0.641,0.707,0.565,0.428,0.696,8
+"D2 origem móvel, janela fixa","W=7, H=3",Regra do EAR por faixas,0.573,0.565,0.584,0.57,0.56,0.584,0.247,0.23,0.268,6
+"D2 origem móvel, janela fixa","W=7, H=3",Dummy: taxa da malha,0.73,0.655,0.776,0.5,0.5,0.5,0.442,0.327,0.524,6
+"D2 origem móvel, janela fixa","W=7, H=3",EAR calibrado (atributos da via),0.774,0.722,0.818,0.677,0.656,0.703,0.567,0.48,0.663,6
+"D2 origem móvel, janela fixa","W=7, H=5",Regra do EAR por faixas,0.574,0.567,0.582,0.573,0.563,0.582,0.245,0.234,0.255,4
+"D2 origem móvel, janela fixa","W=7, H=5",Dummy: taxa da malha,0.721,0.685,0.751,0.5,0.5,0.5,0.417,0.366,0.463,4
+"D2 origem móvel, janela fixa","W=7, H=5",EAR calibrado (atributos da via),0.763,0.737,0.785,0.668,0.654,0.684,0.544,0.501,0.568,4
+D3 espelho para trás,H=1,Regra do EAR por faixas,0.588,0.554,0.631,0.586,0.55,0.633,0.294,0.217,0.364,12
+D3 espelho para trás,H=1,Dummy: taxa da malha,0.682,0.601,0.773,0.5,0.5,0.5,0.384,0.188,0.648,12
+D3 espelho para trás,H=1,EAR calibrado (atributos da via),0.752,0.707,0.803,0.678,0.639,0.716,0.539,0.372,0.608,12
+D3 espelho para trás,H=3,Regra do EAR por faixas,0.592,0.565,0.607,0.591,0.564,0.604,0.305,0.23,0.355,10
+D3 espelho para trás,H=3,Dummy: taxa da malha,0.666,0.638,0.712,0.5,0.5,0.5,0.348,0.262,0.465,10
+D3 espelho para trás,H=3,EAR calibrado (atributos da via),0.739,0.719,0.768,0.671,0.642,0.694,0.512,0.449,0.61,10
+D3 espelho para trás,H=5,Regra do EAR por faixas,0.594,0.577,0.606,0.593,0.578,0.603,0.312,0.255,0.346,8
+D3 espelho para trás,H=5,Dummy: taxa da malha,0.657,0.636,0.672,0.5,0.5,0.5,0.338,0.306,0.381,8
+D3 espelho para trás,H=5,EAR calibrado (atributos da via),0.732,0.719,0.744,0.667,0.659,0.68,0.498,0.452,0.52,8
+D4 validação cruzada em blocos,K=3 blocos de 5 ano(s),Regra do EAR por faixas,0.584,0.567,0.596,0.583,0.563,0.595,0.284,0.241,0.31,3
+D4 validação cruzada em blocos,K=3 blocos de 5 ano(s),Dummy: taxa da malha,0.686,0.655,0.731,0.5,0.5,0.5,0.347,0.3,0.4,3
+D4 validação cruzada em blocos,K=3 blocos de 5 ano(s),EAR calibrado (atributos da via),0.747,0.726,0.775,0.666,0.659,0.677,0.528,0.491,0.589,3
+D4 validação cruzada em blocos,K=5 blocos de 3 ano(s),Regra do EAR por faixas,0.584,0.565,0.605,0.582,0.563,0.6,0.285,0.23,0.355,5
+D4 validação cruzada em blocos,K=5 blocos de 3 ano(s),Dummy: taxa da malha,0.689,0.643,0.733,0.5,0.5,0.5,0.362,0.298,0.435,5
+D4 validação cruzada em blocos,K=5 blocos de 3 ano(s),EAR calibrado (atributos da via),0.752,0.728,0.786,0.672,0.642,0.687,0.544,0.492,0.598,5
+D4 validação cruzada em blocos,K=15 blocos de 1 ano(s),Regra do EAR por faixas,0.585,0.554,0.631,0.581,0.55,0.633,0.286,0.217,0.364,15
+D4 validação cruzada em blocos,K=15 blocos de 1 ano(s),Dummy: taxa da malha,0.693,0.616,0.773,0.5,0.5,0.5,0.379,0.218,0.648,15
+D4 validação cruzada em blocos,K=15 blocos de 1 ano(s),EAR calibrado (atributos da via),0.763,0.712,0.809,0.682,0.639,0.725,0.571,0.47,0.65,15
+"D5 um ano de fora, com lacuna",lacuna de 1 ano,Regra do EAR por faixas,0.585,0.554,0.631,0.581,0.55,0.633,0.286,0.217,0.364,15
+"D5 um ano de fora, com lacuna",lacuna de 1 ano,Dummy: taxa da malha,0.688,0.615,0.749,0.5,0.5,0.5,0.358,0.218,0.497,15
+"D5 um ano de fora, com lacuna",lacuna de 1 ano,EAR calibrado (atributos da via),0.754,0.709,0.805,0.675,0.63,0.72,0.549,0.454,0.658,15

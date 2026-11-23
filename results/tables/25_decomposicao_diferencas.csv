@@ -1,0 +1,5 @@
+comparacao,dif_pais,ic_pais,sorteios_com_ganho_pais,dif_malha,ic_malha,sorteios_com_ganho_malha
+R1 − R0,0.0,-0.011 a 0.009,20,-0.01,-0.024 a 0.002,4
+R2 − R1,0.004,-0.001 a 0.010,30,0.001,-0.004 a 0.004,19
+R3 − R2,0.04,0.017 a 0.066,30,0.075,0.025 a 0.119,30
+R3 − R0,0.044,0.022 a 0.067,30,0.065,0.019 a 0.099,30

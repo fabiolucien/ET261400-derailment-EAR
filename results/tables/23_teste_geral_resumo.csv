@@ -1,0 +1,15 @@
+,,auc,auc,auc_dentro,auc_dentro,classe_muito_alta,classe_muito_alta
+,,mean,std,mean,std,mean,std
+desenho,metodo,,,,,,
+G0 células sorteadas ao acaso (referência otimista),Critérios do EAR em medida contínua,0.64,0.001,0.659,0.001,0.349,0.003
+G0 células sorteadas ao acaso (referência otimista),Dummy: taxa da malha,0.7,0.001,0.5,0.0,0.382,0.002
+G0 células sorteadas ao acaso (referência otimista),EAR calibrado (atributos da via),0.77,0.001,0.68,0.002,0.527,0.002
+G0 células sorteadas ao acaso (referência otimista),Regra do EAR por faixas,0.588,0.0,0.589,0.0,0.283,0.0
+G1 trechos entre pátios inteiros fora do ajuste,Critérios do EAR em medida contínua,0.632,0.007,0.655,0.008,0.345,0.008
+G1 trechos entre pátios inteiros fora do ajuste,Dummy: taxa da malha,0.693,0.002,0.5,0.0,0.373,0.005
+G1 trechos entre pátios inteiros fora do ajuste,EAR calibrado (atributos da via),0.759,0.006,0.663,0.008,0.51,0.009
+G1 trechos entre pátios inteiros fora do ajuste,Regra do EAR por faixas,0.588,0.0,0.589,0.0,0.283,0.0
+G2 linhas inteiras fora do ajuste,Critérios do EAR em medida contínua,0.602,0.011,0.65,0.007,0.33,0.008
+G2 linhas inteiras fora do ajuste,Dummy: taxa da malha,0.673,0.01,0.5,0.0,0.354,0.034
+G2 linhas inteiras fora do ajuste,EAR calibrado (atributos da via),0.716,0.024,0.644,0.009,0.438,0.032
+G2 linhas inteiras fora do ajuste,Regra do EAR por faixas,0.588,0.0,0.589,0.0,0.283,0.0

@@ -1,0 +1,4 @@
+modelo,cobertura,kappa_onde_atribui,kappa_todas
+Claude Sonnet,0.652,0.866,0.486
+Claude Haiku (nas narrativas do Sonnet),0.643,0.863,0.493
+Gemini Flash (nas narrativas do Sonnet),0.642,0.846,0.492

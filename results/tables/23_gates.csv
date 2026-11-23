@@ -1,0 +1,9 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro (não depende de sorteio),0.588,0.588,0.002,True,notebook 11
+"G1, EAR calibrado: AUC (notebook 11, 30 sorteios)",0.759,0.761,0.005,True,notebook 11
+"G1, critérios contínuos: AUC",0.632,0.634,0.005,True,notebook 11
+"G1, Dummy da malha: AUC",0.693,0.693,0.005,True,notebook 11
+teste de vazamento (média de 20 embaralhamentos dos rótulos),0.498,"[0.45, 0.55]",,True,acaso

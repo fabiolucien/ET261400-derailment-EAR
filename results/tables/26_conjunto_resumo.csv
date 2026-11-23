@@ -1,0 +1,11 @@
+H,metodo,desenho,auc,auc_malha
+1,Critérios do EAR contínuos,mesmas células,0.635,0.644
+1,Critérios do EAR contínuos,trechos fora,0.63,0.644
+1,EAR calibrado (atributos da via),mesmas células,0.753,0.673
+1,EAR calibrado (atributos da via),trechos fora,0.743,0.652
+1,Regra do EAR por faixas,mesmas células,0.582,0.577
+3,Critérios do EAR contínuos,mesmas células,0.636,0.646
+3,Critérios do EAR contínuos,trechos fora,0.631,0.646
+3,EAR calibrado (atributos da via),mesmas células,0.752,0.665
+3,EAR calibrado (atributos da via),trechos fora,0.742,0.644
+3,Regra do EAR por faixas,mesmas células,0.58,0.577

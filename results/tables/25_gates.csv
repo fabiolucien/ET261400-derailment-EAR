@@ -1,0 +1,10 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+faixas de pátio na regra: células na faixa mais próxima (até 300 m),2265.0,2265,0.0,True,definição da regra
+R3 reproduz os critérios contínuos do notebook 24 (AUC no país),0.632,0.632,0.002,True,notebook 24
+R3 reproduz os critérios contínuos do notebook 24 (AUC dentro das malhas),0.655,0.655,0.002,True,notebook 24
+soma das três parcelas igual ao ganho total dentro das malhas (R3 − R0),0.066,0.065,0.002,True,identidade aritmética
+vazamento: faixas com pesos aprendidos e rótulos embaralhados,0.497,"[0.45, 0.55]",,True,acaso

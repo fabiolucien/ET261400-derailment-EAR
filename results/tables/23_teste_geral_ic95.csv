@@ -1,0 +1,5 @@
+,media,ic95_inf,ic95_sup
+Regra do EAR por faixas,0.588,0.557,0.624
+Dummy: taxa da malha,0.693,0.612,0.755
+Critérios do EAR em medida contínua,0.632,0.591,0.683
+EAR calibrado (atributos da via),0.759,0.704,0.8

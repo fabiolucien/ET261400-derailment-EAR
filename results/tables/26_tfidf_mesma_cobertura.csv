@@ -1,0 +1,5 @@
+classificador,cobertura,kappa
+"TF-IDF, todas as 600",1.0,0.613
+"TF-IDF, nas 391 do Sonnet",0.652,0.802
+TF-IDF abstendo-se na mesma cobertura (menor confiança),0.652,0.815
+"Claude Sonnet, nas próprias 391",0.652,0.866

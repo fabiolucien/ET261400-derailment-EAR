@@ -1,0 +1,29 @@
+classe,pontos
+patio_1,0
+patio_2,1
+patio_3,2
+patio_4,3
+raio_1,0
+raio_2,1
+raio_3,2
+rampa_Q2,0
+rampa_Q3,-1
+rampa_Q4,1
+carga_eixo_Q2,0
+carga_eixo_Q3,1
+carga_eixo_Q4,-4
+carga_eixo_sem dado,-3
+trafego_Q2,3
+trafego_Q3,3
+trafego_Q4,1
+velocidade_Q2,-2
+velocidade_Q3,-3
+velocidade_Q4,-4
+velocidade_sem dado,-3
+dormente_Concreto,0
+dormente_Mad/Aço,-2
+dormente_Mad/Conc,3
+dormente_Madeira,2
+dormente_NA,-3
+trilho_médio (TR 50 a 57),0
+trilho_pesado (TR 60 ou mais),2

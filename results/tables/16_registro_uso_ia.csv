@@ -1,0 +1,4 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,16.1 dados e funções,Claude,FOCUS: só atributos da via; acidentes calibram em um período e conferem em outro; conferência em km fora da calibração por grupos de trecho,"avaliar(cal, conf)",3 gates de contagem
+2026-11-22,16.2 blocos de 5 anos,Claude,FOCUS: seis pares; três sorteios de grupos de trecho,R1,gate de pares; teste de vazamento
+2026-11-22,16.3 ano a ano,Claude,"FOCUS: 20 conferências anuais, duas direções",16_acerto_*.csv,gate de número de conferências

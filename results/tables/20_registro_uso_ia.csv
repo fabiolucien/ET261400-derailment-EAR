@@ -1,0 +1,2 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,20 por malha e baixa operação,Claude,FOCUS: mesmo protocolo do notebook 18; por malha; sensibilidade a malhas de poucos eventos e a baixo tráfego; atributos extras; superfície por especialistas,"20_por_malha.csv, 20_sensibilidade_malhas.csv",3 gates

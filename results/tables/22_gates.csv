@@ -1,0 +1,10 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+"AUC do EAR calibrado na partição (faixa do notebook 21, janelas de 10 anos por 5)",0.775,"[0.7, 0.85]",,True,notebooks 17 e 21
+células com posição no mapa,18618.0,18618,0.0,True,notebook 13
+estados no contorno da ANTT (UF2026),27.0,27,0.0,True,IBGE: 26 estados e o Distrito Federal
+soma dos eventos nas faixas de bitola,2681.0,2681,0.0,True,total de descarrilamentos por via
+narrativas da amostra B,600.0,600,0.0,True,notebook 04b
+kappa do Sonnet onde atribui família,0.866,0.866,0.001,True,notebook 04b
+cobertura do Sonnet,0.652,0.652,0.001,True,notebook 04b

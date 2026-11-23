@@ -1,0 +1,248 @@
+H,T,metodo,desenho,sorteio,auc,auc_malha
+3,2015,Regra do EAR por faixas,mesmas células,-1,0.6004319453657264,0.5969799238016578
+3,2015,Critérios do EAR contínuos,mesmas células,-1,0.6505721359796263,0.6426255783699437
+3,2015,Critérios do EAR contínuos,trechos fora,0,0.6340991174781636,0.6261094241034585
+3,2015,Critérios do EAR contínuos,trechos fora,1,0.6460553357734712,0.6467740466502205
+3,2015,Critérios do EAR contínuos,trechos fora,2,0.6509737884015506,0.6524833829316027
+3,2015,Critérios do EAR contínuos,trechos fora,3,0.6543033279090372,0.6538835881704024
+3,2015,Critérios do EAR contínuos,trechos fora,4,0.6573254641272689,0.6607770737090378
+3,2015,EAR calibrado (atributos da via),mesmas células,-1,0.7138068417712156,0.6613486908315143
+3,2015,EAR calibrado (atributos da via),trechos fora,0,0.6994131699045419,0.624378200039489
+3,2015,EAR calibrado (atributos da via),trechos fora,1,0.7102260706621936,0.6493347185648698
+3,2015,EAR calibrado (atributos da via),trechos fora,2,0.7096906997978217,0.6520324597152776
+3,2015,EAR calibrado (atributos da via),trechos fora,3,0.7134701099016468,0.651478098985408
+3,2015,EAR calibrado (atributos da via),trechos fora,4,0.7128802574711327,0.654820788453024
+3,2016,Regra do EAR por faixas,mesmas células,-1,0.5994973357229867,0.5971865810303423
+3,2016,Critérios do EAR contínuos,mesmas células,-1,0.6598942990143069,0.6577283772853021
+3,2016,Critérios do EAR contínuos,trechos fora,0,0.6429526979155014,0.6408170077574026
+3,2016,Critérios do EAR contínuos,trechos fora,1,0.6517500753564281,0.6537742884754322
+3,2016,Critérios do EAR contínuos,trechos fora,2,0.6595833566394451,0.6647041637539416
+3,2016,Critérios do EAR contínuos,trechos fora,3,0.661487563081876,0.664172969482278
+3,2016,Critérios do EAR contínuos,trechos fora,4,0.6645072583000833,0.6700143865337286
+3,2016,EAR calibrado (atributos da via),mesmas células,-1,0.7260282073871052,0.670361339268462
+3,2016,EAR calibrado (atributos da via),trechos fora,0,0.7087194379187332,0.6340789250893238
+3,2016,EAR calibrado (atributos da via),trechos fora,1,0.7201298189270487,0.6532110922752433
+3,2016,EAR calibrado (atributos da via),trechos fora,2,0.7199685212116692,0.6594122996063754
+3,2016,EAR calibrado (atributos da via),trechos fora,3,0.724094868304931,0.6586721205230751
+3,2016,EAR calibrado (atributos da via),trechos fora,4,0.7216582143167891,0.6605229396543416
+3,2017,Regra do EAR por faixas,mesmas células,-1,0.5788599802575201,0.5793626747148847
+3,2017,Critérios do EAR contínuos,mesmas células,-1,0.6344712378101034,0.6430808903300986
+3,2017,Critérios do EAR contínuos,trechos fora,0,0.6224092334060117,0.6324642696127338
+3,2017,Critérios do EAR contínuos,trechos fora,1,0.6285382971568659,0.6402393737821412
+3,2017,Critérios do EAR contínuos,trechos fora,2,0.6387042641587208,0.6524606699511473
+3,2017,Critérios do EAR contínuos,trechos fora,3,0.6392033583910963,0.6534104452155052
+3,2017,Critérios do EAR contínuos,trechos fora,4,0.6391303546053131,0.6538738663691223
+3,2017,EAR calibrado (atributos da via),mesmas células,-1,0.7221842559146083,0.6557017802996462
+3,2017,EAR calibrado (atributos da via),trechos fora,0,0.7063591395749943,0.6207235888790388
+3,2017,EAR calibrado (atributos da via),trechos fora,1,0.7149278097779513,0.6378638474494116
+3,2017,EAR calibrado (atributos da via),trechos fora,2,0.7178418866000629,0.6469518601689197
+3,2017,EAR calibrado (atributos da via),trechos fora,3,0.7199823185481684,0.6411333723560121
+3,2017,EAR calibrado (atributos da via),trechos fora,4,0.7151420482280582,0.6428129550554033
+3,2018,Regra do EAR por faixas,mesmas células,-1,0.5844956904283138,0.584173667574059
+3,2018,Critérios do EAR contínuos,mesmas células,-1,0.6384164161572188,0.6523224141544202
+3,2018,Critérios do EAR contínuos,trechos fora,0,0.6227630034520629,0.6362054442469574
+3,2018,Critérios do EAR contínuos,trechos fora,1,0.6293060315122678,0.6465452486501774
+3,2018,Critérios do EAR contínuos,trechos fora,2,0.6402020124371366,0.6598653519754054
+3,2018,Critérios do EAR contínuos,trechos fora,3,0.6356264219698472,0.6542395624478878
+3,2018,Critérios do EAR contínuos,trechos fora,4,0.6411194232146398,0.6615833521235123
+3,2018,EAR calibrado (atributos da via),mesmas células,-1,0.7400494140843626,0.6577419578240431
+3,2018,EAR calibrado (atributos da via),trechos fora,0,0.7195799038601157,0.6185939800083039
+3,2018,EAR calibrado (atributos da via),trechos fora,1,0.7314538718713292,0.636338768490241
+3,2018,EAR calibrado (atributos da via),trechos fora,2,0.7332006948181294,0.6433705989705019
+3,2018,EAR calibrado (atributos da via),trechos fora,3,0.7307308896917778,0.6313033615252143
+3,2018,EAR calibrado (atributos da via),trechos fora,4,0.7296519795528547,0.6431485075323311
+3,2019,Regra do EAR por faixas,mesmas células,-1,0.5649002040287098,0.5644052561455498
+3,2019,Critérios do EAR contínuos,mesmas células,-1,0.6233193772254729,0.6448411519925019
+3,2019,Critérios do EAR contínuos,trechos fora,0,0.6028138986719555,0.6245155322797382
+3,2019,Critérios do EAR contínuos,trechos fora,1,0.6143139001713038,0.6449369918109071
+3,2019,Critérios do EAR contínuos,trechos fora,2,0.6243578388993271,0.6528645061327303
+3,2019,Critérios do EAR contínuos,trechos fora,3,0.6162527530968387,0.6455102870296259
+3,2019,Critérios do EAR contínuos,trechos fora,4,0.6235068609526546,0.654583816735285
+3,2019,EAR calibrado (atributos da via),mesmas células,-1,0.7608831500499543,0.6550446530382159
+3,2019,EAR calibrado (atributos da via),trechos fora,0,0.7383914913157095,0.6124862371191968
+3,2019,EAR calibrado (atributos da via),trechos fora,1,0.7518613757316005,0.634583057368981
+3,2019,EAR calibrado (atributos da via),trechos fora,2,0.7558523801632829,0.6441633076873661
+3,2019,EAR calibrado (atributos da via),trechos fora,3,0.7484206973169097,0.6248950515821924
+3,2019,EAR calibrado (atributos da via),trechos fora,4,0.7523474253386474,0.6413761217099279
+3,2020,Regra do EAR por faixas,mesmas células,-1,0.5702665609186492,0.5603389617321509
+3,2020,Critérios do EAR contínuos,mesmas células,-1,0.6309371551785563,0.6448801075309003
+3,2020,Critérios do EAR contínuos,trechos fora,0,0.6084145588649535,0.616297763863102
+3,2020,Critérios do EAR contínuos,trechos fora,1,0.6235295997890367,0.6435756019766306
+3,2020,Critérios do EAR contínuos,trechos fora,2,0.6262778495860978,0.6467092818693633
+3,2020,Critérios do EAR contínuos,trechos fora,3,0.6210788828268017,0.640886452724987
+3,2020,Critérios do EAR contínuos,trechos fora,4,0.63005947327099,0.6501325147104162
+3,2020,EAR calibrado (atributos da via),mesmas células,-1,0.7788711732103247,0.6571940838551036
+3,2020,EAR calibrado (atributos da via),trechos fora,0,0.7537681388149163,0.6064826830607186
+3,2020,EAR calibrado (atributos da via),trechos fora,1,0.7696330051016094,0.6372175656314544
+3,2020,EAR calibrado (atributos da via),trechos fora,2,0.7702380595638361,0.6405081203518034
+3,2020,EAR calibrado (atributos da via),trechos fora,3,0.762546955649095,0.6220422262187659
+3,2020,EAR calibrado (atributos da via),trechos fora,4,0.768826443397175,0.6393081630295893
+3,2021,Regra do EAR por faixas,mesmas células,-1,0.5703603737501222,0.5672634400057738
+3,2021,Critérios do EAR contínuos,mesmas células,-1,0.6325283149630611,0.6496211429422085
+3,2021,Critérios do EAR contínuos,trechos fora,0,0.6117065015408694,0.6214559239577191
+3,2021,Critérios do EAR contínuos,trechos fora,1,0.6259953244283428,0.648989927653764
+3,2021,Critérios do EAR contínuos,trechos fora,2,0.6260955035189959,0.6503457504905822
+3,2021,Critérios do EAR contínuos,trechos fora,3,0.6253719148740494,0.6472021135329816
+3,2021,Critérios do EAR contínuos,trechos fora,4,0.6279162995486193,0.649400539425172
+3,2021,EAR calibrado (atributos da via),mesmas células,-1,0.788670565987228,0.6802630503629481
+3,2021,EAR calibrado (atributos da via),trechos fora,0,0.7642401703372997,0.6315687707344094
+3,2021,EAR calibrado (atributos da via),trechos fora,1,0.7799048955550866,0.6636957934854351
+3,2021,EAR calibrado (atributos da via),trechos fora,2,0.7795431012326134,0.6644431317225549
+3,2021,EAR calibrado (atributos da via),trechos fora,3,0.7770921622999806,0.6566514460884408
+3,2021,EAR calibrado (atributos da via),trechos fora,4,0.7814880536434397,0.6645881286511108
+3,2022,Regra do EAR por faixas,mesmas células,-1,0.5691666666666667,0.5627591576911104
+3,2022,Critérios do EAR contínuos,mesmas células,-1,0.6202693850814706,0.6366117097990031
+3,2022,Critérios do EAR contínuos,trechos fora,0,0.6042430197330713,0.6119274462267775
+3,2022,Critérios do EAR contínuos,trechos fora,1,0.6128510603455335,0.6352655017122946
+3,2022,Critérios do EAR contínuos,trechos fora,2,0.6147768770981741,0.6387524066701313
+3,2022,Critérios do EAR contínuos,trechos fora,3,0.6166717841644149,0.6369634417371629
+3,2022,Critérios do EAR contínuos,trechos fora,4,0.6196556947514943,0.6410958693297483
+3,2022,EAR calibrado (atributos da via),mesmas células,-1,0.7863786538933922,0.6839050438779638
+3,2022,EAR calibrado (atributos da via),trechos fora,0,0.7649981577008106,0.6391870565900127
+3,2022,EAR calibrado (atributos da via),trechos fora,1,0.7738088512241055,0.6627261259496962
+3,2022,EAR calibrado (atributos da via),trechos fora,2,0.7760826578236305,0.6671269773078653
+3,2022,EAR calibrado (atributos da via),trechos fora,3,0.7771708425448293,0.664902719686025
+3,2022,EAR calibrado (atributos da via),trechos fora,4,0.7789112011790715,0.6694215484353451
+1,2014,Regra do EAR por faixas,mesmas células,-1,0.593576714674661,0.5924411729136181
+1,2014,Critérios do EAR contínuos,mesmas células,-1,0.6575372442918611,0.6531329654985536
+1,2014,Critérios do EAR contínuos,trechos fora,0,0.6368723158410141,0.6422562944788848
+1,2014,Critérios do EAR contínuos,trechos fora,1,0.6497920068597542,0.6568095859093699
+1,2014,Critérios do EAR contínuos,trechos fora,2,0.6621828845558901,0.6695627234736805
+1,2014,Critérios do EAR contínuos,trechos fora,3,0.6577987074624999,0.6638102078281559
+1,2014,Critérios do EAR contínuos,trechos fora,4,0.6578253003781472,0.6629925141391407
+1,2014,EAR calibrado (atributos da via),mesmas células,-1,0.7250972569915008,0.6756397117208425
+1,2014,EAR calibrado (atributos da via),trechos fora,0,0.7140896169077352,0.6512139780855606
+1,2014,EAR calibrado (atributos da via),trechos fora,1,0.7199041274641077,0.6607406868806932
+1,2014,EAR calibrado (atributos da via),trechos fora,2,0.715853884311479,0.6599498341080997
+1,2014,EAR calibrado (atributos da via),trechos fora,3,0.7242255777564673,0.6639276964948274
+1,2014,EAR calibrado (atributos da via),trechos fora,4,0.7268966432838475,0.669501781424171
+1,2015,Regra do EAR por faixas,mesmas células,-1,0.6037774842009301,0.6047525363822502
+1,2015,Critérios do EAR contínuos,mesmas células,-1,0.6308681198126338,0.629558497988562
+1,2015,Critérios do EAR contínuos,trechos fora,0,0.6226592594969733,0.617705336215623
+1,2015,Critérios do EAR contínuos,trechos fora,1,0.6307801656153763,0.6377684283377232
+1,2015,Critérios do EAR contínuos,trechos fora,2,0.6336835455525485,0.6455294672488444
+1,2015,Critérios do EAR contínuos,trechos fora,3,0.6347645501796524,0.6414228168864973
+1,2015,Critérios do EAR contínuos,trechos fora,4,0.6350527784612057,0.6473821623787089
+1,2015,EAR calibrado (atributos da via),mesmas células,-1,0.7027677046450513,0.6514152003179747
+1,2015,EAR calibrado (atributos da via),trechos fora,0,0.6895998321738831,0.6121870340850444
+1,2015,EAR calibrado (atributos da via),trechos fora,1,0.7007706095107012,0.6421928269747548
+1,2015,EAR calibrado (atributos da via),trechos fora,2,0.6995532164493365,0.6390345341249759
+1,2015,EAR calibrado (atributos da via),trechos fora,3,0.6990326226871909,0.6330157806655545
+1,2015,EAR calibrado (atributos da via),trechos fora,4,0.7034864924935847,0.6475184761609722
+1,2016,Regra do EAR por faixas,mesmas células,-1,0.6294418213742746,0.6334104689428214
+1,2016,Critérios do EAR contínuos,mesmas células,-1,0.6966721804672277,0.7012346517204691
+1,2016,Critérios do EAR contínuos,trechos fora,0,0.6761809168968544,0.6786192829987415
+1,2016,Critérios do EAR contínuos,trechos fora,1,0.6911441939144772,0.7043071749369518
+1,2016,Critérios do EAR contínuos,trechos fora,2,0.6948239866384017,0.7043122635467931
+1,2016,Critérios do EAR contínuos,trechos fora,3,0.6930012205306096,0.7049358630146932
+1,2016,Critérios do EAR contínuos,trechos fora,4,0.6988771653711912,0.709485525869743
+1,2016,EAR calibrado (atributos da via),mesmas células,-1,0.750558874542301,0.7026822784483077
+1,2016,EAR calibrado (atributos da via),trechos fora,0,0.7305057707543736,0.6630360990116072
+1,2016,EAR calibrado (atributos da via),trechos fora,1,0.7454363932249845,0.691597007793115
+1,2016,EAR calibrado (atributos da via),trechos fora,2,0.741301310464444,0.6861276534111181
+1,2016,EAR calibrado (atributos da via),trechos fora,3,0.7476114001841503,0.6917086767011317
+1,2016,EAR calibrado (atributos da via),trechos fora,4,0.745683711269566,0.6910391515706529
+1,2017,Regra do EAR por faixas,mesmas células,-1,0.5656673129640247,0.5563925975565134
+1,2017,Critérios do EAR contínuos,mesmas células,-1,0.6257754474113821,0.6163700947593193
+1,2017,Critérios do EAR contínuos,trechos fora,0,0.6115808316665281,0.596673122262209
+1,2017,Critérios do EAR contínuos,trechos fora,1,0.6194032180648136,0.6140194919320761
+1,2017,Critérios do EAR contínuos,trechos fora,2,0.6253549894010151,0.6214145193657706
+1,2017,Critérios do EAR contínuos,trechos fora,3,0.6353558209800085,0.6319094333939081
+1,2017,Critérios do EAR contínuos,trechos fora,4,0.633557276097356,0.6299746437488861
+1,2017,EAR calibrado (atributos da via),mesmas células,-1,0.6972801531272477,0.6412898421056278
+1,2017,EAR calibrado (atributos da via),trechos fora,0,0.6847501542797869,0.6050000521032278
+1,2017,EAR calibrado (atributos da via),trechos fora,1,0.6890594841584202,0.6220162311080958
+1,2017,EAR calibrado (atributos da via),trechos fora,2,0.6953864872790297,0.6374116212547418
+1,2017,EAR calibrado (atributos da via),trechos fora,3,0.6974817745603938,0.6347297274923412
+1,2017,EAR calibrado (atributos da via),trechos fora,4,0.6913406366393704,0.6331510678303534
+1,2018,Regra do EAR por faixas,mesmas células,-1,0.6037652173463391,0.604161299477967
+1,2018,Critérios do EAR contínuos,mesmas células,-1,0.6582180814365997,0.6667046808477962
+1,2018,Critérios do EAR contínuos,trechos fora,0,0.6471385496672466,0.6577261402793838
+1,2018,Critérios do EAR contínuos,trechos fora,1,0.6520994365523306,0.663434129403854
+1,2018,Critérios do EAR contínuos,trechos fora,2,0.6600565053398662,0.6716073218958711
+1,2018,Critérios do EAR contínuos,trechos fora,3,0.6566754927343473,0.6678064515485017
+1,2018,Critérios do EAR contínuos,trechos fora,4,0.6603811892357355,0.6731430564593004
+1,2018,EAR calibrado (atributos da via),mesmas células,-1,0.7318130071144692,0.6858879682670385
+1,2018,EAR calibrado (atributos da via),trechos fora,0,0.7133133733023835,0.6507554510497583
+1,2018,EAR calibrado (atributos da via),trechos fora,1,0.725224890545058,0.663156428085259
+1,2018,EAR calibrado (atributos da via),trechos fora,2,0.7220556164734757,0.6673967197822098
+1,2018,EAR calibrado (atributos da via),trechos fora,3,0.7269275078565066,0.669813554898666
+1,2018,EAR calibrado (atributos da via),trechos fora,4,0.7214193122416716,0.6712774325421742
+1,2019,Regra do EAR por faixas,mesmas células,-1,0.5591792801883619,0.5585579372089782
+1,2019,Critérios do EAR contínuos,mesmas células,-1,0.6166973235308251,0.6513552386004354
+1,2019,Critérios do EAR contínuos,trechos fora,0,0.603148719427226,0.6405311342563371
+1,2019,Critérios do EAR contínuos,trechos fora,1,0.6077789630483879,0.661235300090942
+1,2019,Critérios do EAR contínuos,trechos fora,2,0.626229974532699,0.6669263449905545
+1,2019,Critérios do EAR contínuos,trechos fora,3,0.61954312623132,0.6599772934414241
+1,2019,Critérios do EAR contínuos,trechos fora,4,0.6197745423093556,0.6669361203046106
+1,2019,EAR calibrado (atributos da via),mesmas células,-1,0.7501063860458411,0.6634736192288702
+1,2019,EAR calibrado (atributos da via),trechos fora,0,0.7316407669021191,0.6278483088521227
+1,2019,EAR calibrado (atributos da via),trechos fora,1,0.7407793955119889,0.6483435003988672
+1,2019,EAR calibrado (atributos da via),trechos fora,2,0.7489885156888184,0.6558853811157448
+1,2019,EAR calibrado (atributos da via),trechos fora,3,0.7461473259334006,0.6413664741210074
+1,2019,EAR calibrado (atributos da via),trechos fora,4,0.7425995867570035,0.6536756253553009
+1,2020,Regra do EAR por faixas,mesmas células,-1,0.5650981400392118,0.5501164770985761
+1,2020,Critérios do EAR contínuos,mesmas células,-1,0.6243970663948536,0.6349777310155926
+1,2020,Critérios do EAR contínuos,trechos fora,0,0.6047684084893051,0.6128488503014056
+1,2020,Critérios do EAR contínuos,trechos fora,1,0.6159624965546651,0.6319269579106646
+1,2020,Critérios do EAR contínuos,trechos fora,2,0.6211148973680242,0.6370734653890877
+1,2020,Critérios do EAR contínuos,trechos fora,3,0.611714008601636,0.6286278776230786
+1,2020,Critérios do EAR contínuos,trechos fora,4,0.6278781547566423,0.642717236827343
+1,2020,EAR calibrado (atributos da via),mesmas células,-1,0.7551637769191165,0.6316076724163607
+1,2020,EAR calibrado (atributos da via),trechos fora,0,0.728465031801091,0.58371254440174
+1,2020,EAR calibrado (atributos da via),trechos fora,1,0.7428860335224584,0.6068476418997619
+1,2020,EAR calibrado (atributos da via),trechos fora,2,0.7461717778968115,0.6142034785221702
+1,2020,EAR calibrado (atributos da via),trechos fora,3,0.7349263348397465,0.588287132864673
+1,2020,EAR calibrado (atributos da via),trechos fora,4,0.7421358606056508,0.6102166560043759
+1,2021,Regra do EAR por faixas,mesmas células,-1,0.5684340963084423,0.5714557890415075
+1,2021,Critérios do EAR contínuos,mesmas células,-1,0.6317564982064088,0.653634622347101
+1,2021,Critérios do EAR contínuos,trechos fora,0,0.6046344346727327,0.6242097384204349
+1,2021,Critérios do EAR contínuos,trechos fora,1,0.6222837635618459,0.6502736898726852
+1,2021,Critérios do EAR contínuos,trechos fora,2,0.6260643087549724,0.6555643151910874
+1,2021,Critérios do EAR contínuos,trechos fora,3,0.616388848633272,0.6441810104429702
+1,2021,Critérios do EAR contínuos,trechos fora,4,0.6236938861578393,0.6514308803571252
+1,2021,EAR calibrado (atributos da via),mesmas células,-1,0.8029390309233698,0.6835607777191763
+1,2021,EAR calibrado (atributos da via),trechos fora,0,0.7730195186369032,0.6254957002518051
+1,2021,EAR calibrado (atributos da via),trechos fora,1,0.7945943129397474,0.6614055459293708
+1,2021,EAR calibrado (atributos da via),trechos fora,2,0.7946940473612307,0.6672037091166331
+1,2021,EAR calibrado (atributos da via),trechos fora,3,0.7846477380233208,0.6484192295918068
+1,2021,EAR calibrado (atributos da via),trechos fora,4,0.7966867003945413,0.6691818559818912
+1,2022,Regra do EAR por faixas,mesmas células,-1,0.573648702724333,0.549945747813365
+1,2022,Critérios do EAR contínuos,mesmas células,-1,0.6375804375804376,0.6387192174412258
+1,2022,Critérios do EAR contínuos,trechos fora,0,0.6184713885554222,0.6048219481613093
+1,2022,Critérios do EAR contínuos,trechos fora,1,0.6319565664103479,0.638818675698258
+1,2022,Critérios do EAR contínuos,trechos fora,2,0.6317969349902123,0.6417599042662939
+1,2022,Critérios do EAR contínuos,trechos fora,3,0.6357284535435795,0.6411232576912141
+1,2022,Critérios do EAR contínuos,trechos fora,4,0.6352370137244087,0.6415723400616364
+1,2022,EAR calibrado (atributos da via),mesmas células,-1,0.8002375004055676,0.6700866058871654
+1,2022,EAR calibrado (atributos da via),trechos fora,0,0.7768305159901798,0.618344582515853
+1,2022,EAR calibrado (atributos da via),trechos fora,1,0.7909079307398635,0.6577249115705099
+1,2022,EAR calibrado (atributos da via),trechos fora,2,0.7879960632901809,0.6535216234205518
+1,2022,EAR calibrado (atributos da via),trechos fora,3,0.7873393681797043,0.6436304044934273
+1,2022,EAR calibrado (atributos da via),trechos fora,4,0.7877689454160043,0.6491741682398964
+1,2023,Regra do EAR por faixas,mesmas células,-1,0.5674338056779817,0.5661530621235055
+1,2023,Critérios do EAR contínuos,mesmas células,-1,0.6232973698461187,0.6457814595297668
+1,2023,Critérios do EAR contínuos,trechos fora,0,0.6053836407589643,0.6200062621514747
+1,2023,Critérios do EAR contínuos,trechos fora,1,0.6172304746506645,0.640164886988342
+1,2023,Critérios do EAR contínuos,trechos fora,2,0.6146284334377519,0.6462189852698044
+1,2023,Critérios do EAR contínuos,trechos fora,3,0.6237158210842422,0.6513934083306021
+1,2023,Critérios do EAR contínuos,trechos fora,4,0.6179287570573162,0.6440220162188622
+1,2023,EAR calibrado (atributos da via),mesmas células,-1,0.756362272540012,0.692389360172473
+1,2023,EAR calibrado (atributos da via),trechos fora,0,0.7365512622199422,0.6491714544330137
+1,2023,EAR calibrado (atributos da via),trechos fora,1,0.7472774759228599,0.6706949989978983
+1,2023,EAR calibrado (atributos da via),trechos fora,2,0.7503918931874065,0.6860201433065973
+1,2023,EAR calibrado (atributos da via),trechos fora,3,0.7572056525896043,0.6916422672411459
+1,2023,EAR calibrado (atributos da via),trechos fora,4,0.7541786825652227,0.6825560104890147
+1,2024,Regra do EAR por faixas,mesmas células,-1,0.5762197909365191,0.5616569468229018
+1,2024,Critérios do EAR contínuos,mesmas células,-1,0.5857878628244032,0.5944396863942671
+1,2024,Critérios do EAR contínuos,trechos fora,0,0.5810554179310465,0.581048924216626
+1,2024,Critérios do EAR contínuos,trechos fora,1,0.574801798938574,0.5927454045660567
+1,2024,Critérios do EAR contínuos,trechos fora,2,0.5842170568285218,0.6035572815949369
+1,2024,Critérios do EAR contínuos,trechos fora,3,0.5706571001911264,0.5884408471753192
+1,2024,Critérios do EAR contínuos,trechos fora,4,0.5920588965174952,0.6082822286723684
+1,2024,EAR calibrado (atributos da via),mesmas células,-1,0.8071374150489136,0.708858766506282
+1,2024,EAR calibrado (atributos da via),trechos fora,0,0.787201065779678,0.6672598597579188
+1,2024,EAR calibrado (atributos da via),trechos fora,1,0.783543978649577,0.6762927536413561
+1,2024,EAR calibrado (atributos da via),trechos fora,2,0.7939988941665107,0.6879127081475684
+1,2024,EAR calibrado (atributos da via),trechos fora,3,0.7929635902146798,0.6900079458794521
+1,2024,EAR calibrado (atributos da via),trechos fora,4,0.801586479226439,0.6999039483996782

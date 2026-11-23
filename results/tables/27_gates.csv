@@ -1,0 +1,20 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+regra FICO reconstruída igual à regra do EAR (B2),0.0,0.0,1e-12,True,notebook 11
+perfil por distância: células somam a malha em operação,20936.0,20936,0.0,True,notebook 11
+perfil por distância: quilômetros com descarrilamento somam 2.123,2123.0,2123,0.0,True,notebook 11
+perfil por raio: células somam a malha em operação,20936.0,20936,0.0,True,notebook 11
+classe de referência com risco relativo 1,1.0,1.0,1e-12,True,definição
+"descarrilamentos de trens de carga com causa de via, EUA, 2006 a 2025",6606.0,6606,0.0,True,"FRA Form 54, recorte declarado"
+"os mesmos na via principal, trens com 10 vagões ou mais",2772.0,2772,0.0,True,"FRA Form 54, recorte declarado"
+fração descarrilada mediana entre 0 e 1,0.10787840315982508,"[0.0, 1.0]",,True,definição
+grade de faixas de pátio: combinações de 4 limites em 7 valores,35.0,35,0.0,True,combinatória
+regra FICO no protocolo igual ao notebook 11 (AUC no país),0.588,0.588,0.002,True,notebook 11
+logística com atributos igual ao notebook 24 (AUC no país),0.759,0.759,0.003,True,notebook 24
+ajustes registrados: 30 sorteios × 5 grupos,150.0,150,0.0,True,desenho
+células a até 20 km de um pátio,17985.0,17985,0.0,True,definição
+quilômetros com descarrilamento em 2019 a 2025,745.0,745,0.0,True,notebook 11
+vazamento: EAR v2 com rótulos embaralhados,0.508,"[0.45, 0.55]",,True,acaso

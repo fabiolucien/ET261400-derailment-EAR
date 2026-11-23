@@ -1,0 +1,5 @@
+metodo,auc_malha,auc_malha_ate_20km,auc_ate_20km
+"Regra do EAR, faixas da FICO (atual)",0.5892998772396766,0.5958051607256808,0.5838929281374247
+Regra do EAR recalibrada (faixas e peso aferidos),0.6055352240163729,0.6203326754337326,0.6071067136844801
+Critérios do EAR contínuos (notebook 24),0.6559110295334196,0.6204945873219806,0.6139164414098783
+"Logística com atributos (notebook 24, referência)",0.6630091064666402,0.62609242175688,0.7486080948499004

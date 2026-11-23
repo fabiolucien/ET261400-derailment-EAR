@@ -1,0 +1,14 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936.0,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681.0,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123.0,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+"mesmas células, H = 3: EAR calibrado igual ao notebook 18 (AUC no país)",0.752,0.752,0.003,True,notebook 18
+"mesmas células, H = 3: EAR calibrado igual ao notebook 18 (AUC dentro das malhas)",0.665,0.665,0.003,True,notebook 18
+"regra do EAR, H = 3, igual ao notebook 18",0.58,0.58,0.003,True,notebook 18
+Brier da taxa-base constante = p(1 − p),0.0911,0.0911,0.0,True,definição
+narrativas distintas (FRA),11356.0,11356.0,0.0,True,notebook 04b
+amostra B com narrativa,600.0,600.0,0.0,True,notebook 04b
+"TF-IDF em todas as 600 perto do notebook 04b (0,613)",0.613,0.613,0.03,True,notebook 04b; versão do scikit-learn pode mudar a terceira casa
+"TF-IDF nas 391 do Sonnet perto do notebook 04b (0,802)",0.802,0.802,0.03,True,notebook 04b
+Sonnet nas próprias narrativas igual ao notebook 04b,0.866,0.866,0.001,True,notebook 04b

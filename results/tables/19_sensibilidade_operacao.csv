@@ -1,0 +1,10 @@
+universo,metodo,auc,auc_dentro,acerto_20,acerto_40,acerto_50,atingidos,celulas,eventos_via
+A: em operação pela Declaração de Rede (análise atual),regra,0.58,0.577,0.263,0.507,0.627,393.625,20936,2681
+A: em operação pela Declaração de Rede (análise atual),dummy malha,0.688,0.5,0.357,0.657,0.809,393.625,20936,2681
+A: em operação pela Declaração de Rede (análise atual),EAR calibrado,0.752,0.665,0.537,0.759,0.858,393.625,20936,2681
+B: em operação e com capacidade vinculada maior que zero,regra,0.579,0.573,0.252,0.497,0.611,370.75,18330,2515
+B: em operação e com capacidade vinculada maior que zero,dummy malha,0.666,0.5,0.337,0.576,0.73,370.75,18330,2515
+B: em operação e com capacidade vinculada maior que zero,EAR calibrado,0.752,0.659,0.546,0.756,0.851,370.75,18330,2515
+"C: todas as células, inclusive tráfego interrompido",regra,0.592,0.594,0.304,0.536,0.642,412.75,30055,2836
+"C: todas as células, inclusive tráfego interrompido",dummy malha,0.609,0.5,0.256,0.553,0.702,412.75,30055,2836
+"C: todas as células, inclusive tráfego interrompido",EAR calibrado,0.807,0.769,0.612,0.876,0.926,412.75,30055,2836

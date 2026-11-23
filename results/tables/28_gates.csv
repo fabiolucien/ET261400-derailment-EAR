@@ -1,0 +1,11 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+G1 trechos divididos entre grupos (todos os sorteios),0.0,0,0.0,True,definição do protocolo
+G2 células avaliadas por sorteio,20936.0,20936,0.0,True,notebook 11
+G3 mínimo de km atingidos em um grupo,310.0,"[100, 2123]",,True,2.123 / 5 = 425 em média
+G4 regra do EAR (FICO),0.588,0.588,0.002,True,notebook 24 e dissertação v4
+"G5 logística com atributos, média de 30 sorteios",0.759,0.759,0.002,True,24_modelos_resumo.csv
+G6 média da AUC com rótulos embaralhados,0.499,"[0.45, 0.55]",,True,"acaso = 0,50"

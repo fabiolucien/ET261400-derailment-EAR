@@ -1,0 +1,6 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,18.1 dados e funções,Claude,FOCUS: origem móvel para frente; AUC e taxa de acerto com corte de área; alarme falso e concentração de risco,"notas(T, H), medidas()",2 gates de contagem
+2026-11-22,18.2 protocolo principal,Claude,"FOCUS: 8 origens, horizonte de 3 anos; sensibilidade 1 e 5 anos; IC por reamostragem de linhas","18_origem_movel_por_origem.csv, 18_protocolo_principal.csv, 18_ic95_auc.csv",gate de número de origens
+2026-11-22,18.3 grupos de critérios,Claude,"FOCUS: acréscimo e retirada de um grupo por vez, mesmo protocolo",18_grupos_de_criterios.csv,comparação com a linha 'todos os grupos' da seção 1
+2026-11-22,18.4 resolução,Claude,FOCUS: agregação das notas por bloco (probabilidade de ao menos um evento); regra e Dummy pelo máximo,18_resolucao.csv,bloco de 1 km reproduz a seção 1
+2026-11-22,18.5 base americana,Claude,FOCUS: tabela descritiva; sem modelo,18_fra_*.csv,total de narrativas confere com o notebook 04

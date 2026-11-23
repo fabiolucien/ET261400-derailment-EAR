@@ -1,0 +1,17 @@
+configuracao,auc,auc_dentro
+"só critérios do EAR (pátio e AMV, raio)",0.636,0.646
+todos os grupos,0.752,0.665
+"critérios do EAR + superestrutura: trilho, dormente, fixação",0.712,0.659
+"critérios do EAR + tráfego: capacidade vinculada, dias, linhas",0.662,0.649
+critérios do EAR + carga por eixo e velocidade,0.707,0.638
+critérios do EAR + rampa e raio declarados,0.669,0.647
+critérios do EAR + sinalização e controle,0.691,0.646
+critérios do EAR + bitola e gabarito,0.739,0.66
+todos menos distância a pátio e AMV (EAR),0.736,0.652
+todos menos raio de curva (EAR),0.744,0.646
+"todos menos superestrutura: trilho, dormente, fixação",0.753,0.672
+"todos menos tráfego: capacidade vinculada, dias, linhas",0.748,0.655
+todos menos carga por eixo e velocidade,0.754,0.668
+todos menos rampa e raio declarados,0.752,0.666
+todos menos sinalização e controle,0.749,0.663
+todos menos bitola e gabarito,0.731,0.65

@@ -1,0 +1,6 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,24.1 dados e funções,Claude,FOCUS: mesmas funções e mesma matriz do notebook 23,"design, auc, lr",gates de contagem
+2026-11-22,24.2 modelos da aula 6,Claude,"FOCUS: mesmo protocolo, mesmos sorteios, hiperparâmetros fixados antes",24_modelos_resumo.csv,4 gates contra o notebook 23 e 1 contra a dissertação
+2026-11-22,24.3 diferenças,Claude,"FOCUS: IC por reamostragem de linhas inteiras, como na dissertação",24_diferencas.csv,IC e sorteios
+2026-11-22,24.4 hiperparâmetros,Claude,FOCUS: grade pequena declarada antes; relatar toda a grade,24_hiperparametros.csv,faixa de variação
+2026-11-22,24.5 malha fora,Claude,FOCUS: cada malha com pelo menos 5 km atingidos fica fora uma vez,24_malha_fora.csv,1 gate contra a dissertação

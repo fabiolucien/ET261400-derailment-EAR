@@ -1,0 +1,9 @@
+,auc_malha_inteira,auc_malha_inteira,auc_malha_inteira,auc_dentro,auc_dentro,auc_dentro,captura20,captura20,captura20,auc_km_sem_acidente_antes,auc_km_sem_acidente_antes,auc_km_sem_acidente_antes,auc_dentro_km_sem_acidente_antes,auc_dentro_km_sem_acidente_antes,auc_dentro_km_sem_acidente_antes
+,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max
+metodo,,,,,,,,,,,,,,,
+Regra do EAR (sem ajuste),0.577,0.565,0.599,0.574,0.56,0.597,0.255,0.23,0.303,0.575,0.564,0.588,0.572,0.564,0.585
+Histórico do próprio km,0.596,0.566,0.635,0.579,0.558,0.61,0.378,0.341,0.435,0.5,0.5,0.5,0.5,0.5,0.5
+"Histórico (km, vizinhança, linha, malha)",0.776,0.732,0.807,0.706,0.664,0.742,0.573,0.505,0.615,0.761,0.718,0.792,0.691,0.646,0.721
+"Atributos da via, sem histórico (M2)",0.772,0.741,0.805,0.676,0.668,0.681,0.549,0.481,0.604,0.771,0.735,0.807,0.671,0.664,0.677
+Atributos + histórico (logística),0.797,0.758,0.828,0.71,0.69,0.722,0.621,0.551,0.683,0.788,0.747,0.82,0.696,0.674,0.707
+Atributos + histórico (gradient boosting),0.79,0.755,0.84,0.715,0.691,0.745,0.597,0.522,0.699,0.781,0.744,0.824,0.702,0.68,0.734

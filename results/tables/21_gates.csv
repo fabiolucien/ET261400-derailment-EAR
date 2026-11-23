@@ -1,0 +1,7 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+soma da matriz ano x célula,2681.0,2681,0.0,True,partição por ano
+número de avaliações declaradas,185.0,"[150, 260]",,True,desenho
+D1 com H=3 e origens de 2015 a 2022 reproduz o notebook 18,0.752,0.752,0.002,True,notebook 18
+"idem, com histórico",0.791,0.791,0.002,True,notebook 18

@@ -1,0 +1,6 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via nas células,2681.0,2681,0.0,True,notebook 11
+soma da matriz ano x célula,2681.0,2681,0.0,True,partição por ano
+número de cenários,310.0,"[250, 400]",,True,desenho
+teste de vazamento (média de 20 embaralhamentos),0.48002879246904406,"[0.45, 0.55]",,True,acaso

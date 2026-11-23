@@ -1,0 +1,26 @@
+universo,metodo,celulas,auc,auc_dentro
+todas as 13 malhas (análise atual),Regra do EAR por faixas,20936,0.5797473446423369,0.5765587078369411
+todas as 13 malhas (análise atual),Superfície por especialistas da dissertação (S_esp),20936,0.6948672266036193,0.5889675667326957
+todas as 13 malhas (análise atual),EAR calibrado (atributos da via),20936,0.7521090327872739,0.6651950749197371
+todas as 13 malhas (análise atual),EAR calibrado + atributos extras,20936,0.7517815152714014,0.6662591773155491
+todas as 13 malhas (análise atual),EAR calibrado + histórico de acidentes,20936,0.7907443246134938,0.7058096734690154
+sem as malhas com menos de 50 km atingidos,Regra do EAR por faixas,14145,0.5725580478246264,0.5758411796951038
+sem as malhas com menos de 50 km atingidos,Superfície por especialistas da dissertação (S_esp),14145,0.6118656089243062,0.5903424417480827
+sem as malhas com menos de 50 km atingidos,EAR calibrado (atributos da via),14145,0.6930527257725173,0.6677123266548213
+sem as malhas com menos de 50 km atingidos,EAR calibrado + atributos extras,14145,0.6910489745419093,0.6685544473878515
+sem as malhas com menos de 50 km atingidos,EAR calibrado + histórico de acidentes,14145,0.7410790163214569,0.7110462367688377
+só as cinco malhas com mais de 200 km atingidos,Regra do EAR por faixas,14145,0.5725580478246264,0.5758411796951038
+só as cinco malhas com mais de 200 km atingidos,Superfície por especialistas da dissertação (S_esp),14145,0.6118656089243062,0.5903424417480827
+só as cinco malhas com mais de 200 km atingidos,EAR calibrado (atributos da via),14145,0.6930527257725173,0.6677123266548213
+só as cinco malhas com mais de 200 km atingidos,EAR calibrado + atributos extras,14145,0.6910489745419093,0.6685544473878515
+só as cinco malhas com mais de 200 km atingidos,EAR calibrado + histórico de acidentes,14145,0.7410790163214569,0.7110462367688377
+sem o quartil de menor capacidade vinculada,Regra do EAR por faixas,15559,0.5738442593347344,0.5744583832532364
+sem o quartil de menor capacidade vinculada,Superfície por especialistas da dissertação (S_esp),15559,0.7150629451775494,0.592287884404015
+sem o quartil de menor capacidade vinculada,EAR calibrado (atributos da via),15559,0.7450400366804895,0.652602572693262
+sem o quartil de menor capacidade vinculada,EAR calibrado + atributos extras,15559,0.7430399404735153,0.6487830339902687
+sem o quartil de menor capacidade vinculada,EAR calibrado + histórico de acidentes,15559,0.7875834696493235,0.6879897388815064
+sem a FTC,Regra do EAR por faixas,20772,0.5794709342611747,0.5765587078369411
+sem a FTC,Superfície por especialistas da dissertação (S_esp),20772,0.6954692627994004,0.5889675667326957
+sem a FTC,EAR calibrado (atributos da via),20772,0.7525718522545972,0.6651950749197371
+sem a FTC,EAR calibrado + atributos extras,20772,0.7522700163894755,0.6662591773155491
+sem a FTC,EAR calibrado + histórico de acidentes,20772,0.7915207612596953,0.7058096734690154

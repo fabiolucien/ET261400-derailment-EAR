@@ -1,0 +1,4 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-16,13.1 posicionamento nacional,Claude,FOCUS: parear segmentos da DR ao eixo por nome de pátio e km; posicionar células pelo km; contar o que fica de fora,13_celulas_posicao.csv,"gates de código de ferrovia, território e coincidência com a FCA do notebook 11"
+2026-11-16,13.2 escore e resultado por malha,Claude,FOCUS: mesmo modelo e split do notebook 11; AUC por malha para a regra e para os critérios contínuos,13_resultado_por_malha.csv,gate de reprodução da captura do sorteio 0
+2026-11-16,13.3 mapa nacional,Claude,FOCUS: mapa das 13 malhas com os 20% priorizados e os descarrilamentos; curva de captura nacional,13_mvp_mapa_nacional.png,valores do título lidos do escore com gate

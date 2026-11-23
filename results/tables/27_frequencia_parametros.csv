@@ -1,0 +1,10 @@
+valor,ajustes,criterio
+"(250, 1000, 1500, 3000)",138,faixas de distância ao pátio (m)
+"(250, 1000, 2000, 3000)",12,faixas de distância ao pátio (m)
+"(250, 300, 600)",125,classes de raio (m)
+"(250, 400, 600)",17,classes de raio (m)
+"(250, 400, 800)",5,classes de raio (m)
+"(250, 300, 800)",3,classes de raio (m)
+0.6,76,peso do pátio
+0.5,73,peso do pátio
+0.4,1,peso do pátio

@@ -1,0 +1,8 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+malhas com código de ferrovia,13.0,13,0.0,True,13 malhas do notebook 11
+códigos de ferrovia distintos,13.0,13,0.0,True,cada malha é uma concessão
+código da FCA,8.0,8,0.0,True,notebook 03
+posições dentro do território brasileiro (fração),1.0,"[1.0, 1.0]",,True,extremos do território brasileiro (IBGE)
+FCA: mediana da diferença de posição contra o notebook 11 (km),0.02604815313982294,"[0.0, 1.0]",,True,"notebook 11, mesma regra de interpolação"
+captura em 20% do M2 no sorteio 0 reproduz o notebook 11,0.5438,0.5438,0.005,True,11_metricas_por_sorteio.csv

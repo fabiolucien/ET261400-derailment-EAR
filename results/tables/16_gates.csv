@@ -1,0 +1,7 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via nas células,2681.0,2681,0.0,True,notebook 11
+soma dos três blocos,2681.0,2681,0.0,True,partição do período
+pares de blocos avaliados,6.0,6,0.0,True,desenho
+"teste de vazamento (média de 20 embaralhamentos), AUC em km fora da calibração",0.4876121228608512,"[0.45, 0.55]",,True,acaso
+conferências ano a ano,20.0,20,0.0,True,desenho: 10 para frente e 10 para trás

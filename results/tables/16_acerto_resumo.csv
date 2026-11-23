@@ -1,0 +1,19 @@
+,,,auc,auc,auc,auc_dentro,auc_dentro,auc_dentro,captura20,captura20,captura20,auc_km_sem_acidente_na_calibracao,auc_km_sem_acidente_na_calibracao,auc_km_sem_acidente_na_calibracao
+,,,mean,min,max,mean,min,max,mean,min,max,mean,min,max
+cenario,conferencia,metodo,,,,,,,,,,,,
+blocos de 5 anos,"mesmos km, outro período",Regra do EAR por faixas (sem calibração),0.584,0.567,0.596,0.583,0.563,0.595,0.284,0.241,0.31,0.583,0.567,0.603
+blocos de 5 anos,"km fora da calibração, outro período",Regra do EAR por faixas (sem calibração),0.584,0.567,0.596,0.583,0.563,0.595,0.284,0.241,0.31,0.583,0.567,0.603
+blocos de 5 anos,"mesmos km, outro período",Critérios do EAR em medida contínua,0.63,0.609,0.66,0.643,0.623,0.657,0.36,0.328,0.385,0.627,0.606,0.664
+blocos de 5 anos,"km fora da calibração, outro período",Critérios do EAR em medida contínua,0.625,0.598,0.656,0.642,0.626,0.658,0.355,0.315,0.387,0.623,0.595,0.662
+blocos de 5 anos,"mesmos km, outro período",EAR calibrado: critérios + atributos da via (logística),0.738,0.7,0.801,0.657,0.625,0.69,0.506,0.416,0.631,0.733,0.695,0.799
+blocos de 5 anos,"km fora da calibração, outro período",EAR calibrado: critérios + atributos da via (logística),0.731,0.695,0.788,0.642,0.607,0.673,0.493,0.415,0.604,0.727,0.692,0.786
+blocos de 5 anos,"mesmos km, outro período",Critérios + atributos da via (gradient boosting),0.755,0.704,0.823,0.68,0.627,0.739,0.543,0.43,0.705,0.746,0.695,0.818
+blocos de 5 anos,"km fora da calibração, outro período",Critérios + atributos da via (gradient boosting),0.729,0.679,0.8,0.633,0.564,0.706,0.483,0.379,0.622,0.723,0.676,0.799
+ano a ano,"mesmos km, outro período",Regra do EAR por faixas (sem calibração),0.587,0.554,0.631,0.583,0.55,0.633,0.289,0.217,0.364,0.584,0.539,0.635
+ano a ano,"km fora da calibração, outro período",Regra do EAR por faixas (sem calibração),0.587,0.554,0.631,0.583,0.55,0.633,0.289,0.217,0.364,0.584,0.539,0.635
+ano a ano,"mesmos km, outro período",Critérios do EAR em medida contínua,0.639,0.567,0.697,0.651,0.594,0.701,0.373,0.302,0.47,0.634,0.556,0.7
+ano a ano,"km fora da calibração, outro período",Critérios do EAR em medida contínua,0.631,0.561,0.688,0.646,0.6,0.696,0.365,0.293,0.432,0.628,0.552,0.696
+ano a ano,"mesmos km, outro período",EAR calibrado: critérios + atributos da via (logística),0.75,0.697,0.807,0.675,0.632,0.716,0.536,0.372,0.65,0.741,0.684,0.8
+ano a ano,"km fora da calibração, outro período",EAR calibrado: critérios + atributos da via (logística),0.741,0.696,0.8,0.656,0.609,0.702,0.516,0.383,0.614,0.734,0.685,0.793
+ano a ano,"mesmos km, outro período",Critérios + atributos da via (gradient boosting),0.779,0.729,0.833,0.712,0.671,0.75,0.583,0.432,0.719,0.767,0.72,0.826
+ano a ano,"km fora da calibração, outro período",Critérios + atributos da via (gradient boosting),0.745,0.693,0.796,0.645,0.584,0.7,0.529,0.421,0.667,0.737,0.692,0.788

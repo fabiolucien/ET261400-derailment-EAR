@@ -1,0 +1,8 @@
+comparacao,dif_pais,ic_pais,sorteios_com_ganho_pais,dif_malha,ic_malha,sorteios_com_ganho_malha
+Critérios do EAR contínuos (logística) − Regra do EAR por faixas,0.044,0.022 a 0.067,30,0.065,0.019 a 0.099,30
+Regressão logística (atributos) − Regra do EAR por faixas,0.172,0.105 a 0.219,30,0.074,0.017 a 0.113,30
+Regressão logística (atributos) − Critérios do EAR contínuos (logística),0.127,0.054 a 0.180,30,0.009,-0.017 a 0.034,30
+Árvore de decisão − Regressão logística (atributos),-0.023,-0.044 a -0.006,0,-0.047,-0.078 a -0.013,0
+Random Forest − Regressão logística (atributos),0.007,-0.018 a 0.029,30,-0.01,-0.048 a 0.032,5
+Gradient boosting (HGB) − Regressão logística (atributos),0.017,0.000 a 0.033,30,0.011,-0.015 a 0.033,26
+"MLP (32, 16) − Regressão logística (atributos)",-0.009,-0.017 a 0.001,10,-0.012,-0.019 a 0.002,9

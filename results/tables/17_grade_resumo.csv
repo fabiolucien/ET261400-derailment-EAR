@@ -1,0 +1,491 @@
+,,,,,,,auc,auc,auc,auc,auc_dentro,auc_dentro,auc_dentro,auc_dentro,captura20,captura20,captura20,captura20
+,,,,,,,mean,min,max,count,mean,min,max,count,mean,min,max,count
+tipo,sentido,anos_calibracao,anos_conferencia,defasagem,metodo,conferencia,,,,,,,,,,,,
+janelas adjacentes,para frente,1,1,0,Regra do EAR por faixas,mesmos km,0.587,0.559,0.631,14,0.582,0.55,0.633,14,0.29,0.217,0.364,14
+janelas adjacentes,para frente,1,1,0,Regra do EAR por faixas,km fora da calibração,0.587,0.559,0.631,14,0.582,0.55,0.633,14,0.29,0.217,0.364,14
+janelas adjacentes,para frente,1,1,0,EAR calibrado (atributos da via),mesmos km,0.759,0.714,0.823,14,0.676,0.642,0.705,14,0.541,0.426,0.684,14
+janelas adjacentes,para frente,1,1,0,EAR calibrado (atributos da via),km fora da calibração,0.723,0.676,0.778,14,0.621,0.55,0.671,14,0.489,0.394,0.596,14
+janelas adjacentes,para trás,1,1,0,Regra do EAR por faixas,mesmos km,0.585,0.554,0.631,14,0.582,0.55,0.633,14,0.287,0.217,0.364,14
+janelas adjacentes,para trás,1,1,0,Regra do EAR por faixas,km fora da calibração,0.585,0.554,0.631,14,0.582,0.55,0.633,14,0.287,0.217,0.364,14
+janelas adjacentes,para trás,1,1,0,EAR calibrado (atributos da via),mesmos km,0.757,0.69,0.833,14,0.671,0.63,0.707,14,0.543,0.377,0.688,14
+janelas adjacentes,para trás,1,1,0,EAR calibrado (atributos da via),km fora da calibração,0.718,0.654,0.793,14,0.619,0.519,0.668,14,0.495,0.328,0.661,14
+janelas adjacentes,para frente,1,2,0,Regra do EAR por faixas,mesmos km,0.588,0.565,0.616,13,0.584,0.558,0.614,13,0.291,0.228,0.362,13
+janelas adjacentes,para frente,1,2,0,Regra do EAR por faixas,km fora da calibração,0.588,0.565,0.616,13,0.584,0.558,0.614,13,0.291,0.228,0.362,13
+janelas adjacentes,para frente,1,2,0,EAR calibrado (atributos da via),mesmos km,0.754,0.712,0.807,13,0.668,0.649,0.691,13,0.525,0.453,0.604,13
+janelas adjacentes,para frente,1,2,0,EAR calibrado (atributos da via),km fora da calibração,0.718,0.66,0.752,13,0.617,0.567,0.659,13,0.477,0.408,0.552,13
+janelas adjacentes,para trás,1,2,0,Regra do EAR por faixas,mesmos km,0.587,0.565,0.616,13,0.585,0.558,0.614,13,0.291,0.228,0.362,13
+janelas adjacentes,para trás,1,2,0,Regra do EAR por faixas,km fora da calibração,0.587,0.565,0.616,13,0.585,0.558,0.614,13,0.291,0.228,0.362,13
+janelas adjacentes,para trás,1,2,0,EAR calibrado (atributos da via),mesmos km,0.751,0.697,0.822,13,0.666,0.63,0.69,13,0.53,0.421,0.661,13
+janelas adjacentes,para trás,1,2,0,EAR calibrado (atributos da via),km fora da calibração,0.712,0.66,0.788,13,0.616,0.52,0.654,13,0.481,0.364,0.635,13
+janelas adjacentes,para frente,1,5,0,Regra do EAR por faixas,mesmos km,0.588,0.567,0.606,10,0.587,0.563,0.603,10,0.291,0.234,0.346,10
+janelas adjacentes,para frente,1,5,0,Regra do EAR por faixas,km fora da calibração,0.588,0.567,0.606,10,0.587,0.563,0.603,10,0.291,0.234,0.346,10
+janelas adjacentes,para frente,1,5,0,EAR calibrado (atributos da via),mesmos km,0.738,0.706,0.788,10,0.663,0.65,0.674,10,0.495,0.453,0.575,10
+janelas adjacentes,para frente,1,5,0,EAR calibrado (atributos da via),km fora da calibração,0.705,0.678,0.741,10,0.616,0.583,0.647,10,0.443,0.4,0.504,10
+janelas adjacentes,para trás,1,5,0,Regra do EAR por faixas,mesmos km,0.591,0.569,0.606,10,0.59,0.569,0.603,10,0.298,0.234,0.346,10
+janelas adjacentes,para trás,1,5,0,Regra do EAR por faixas,km fora da calibração,0.591,0.569,0.606,10,0.59,0.569,0.603,10,0.298,0.234,0.346,10
+janelas adjacentes,para trás,1,5,0,EAR calibrado (atributos da via),mesmos km,0.724,0.673,0.776,10,0.649,0.624,0.679,10,0.489,0.422,0.616,10
+janelas adjacentes,para trás,1,5,0,EAR calibrado (atributos da via),km fora da calibração,0.689,0.651,0.75,10,0.602,0.554,0.642,10,0.443,0.373,0.593,10
+janelas adjacentes,para frente,2,1,0,Regra do EAR por faixas,mesmos km,0.588,0.559,0.631,13,0.582,0.55,0.633,13,0.289,0.217,0.364,13
+janelas adjacentes,para frente,2,1,0,Regra do EAR por faixas,km fora da calibração,0.588,0.559,0.631,13,0.582,0.55,0.633,13,0.289,0.217,0.364,13
+janelas adjacentes,para frente,2,1,0,EAR calibrado (atributos da via),mesmos km,0.767,0.716,0.839,13,0.683,0.649,0.705,13,0.554,0.448,0.688,13
+janelas adjacentes,para frente,2,1,0,EAR calibrado (atributos da via),km fora da calibração,0.736,0.7,0.788,13,0.633,0.576,0.677,13,0.501,0.406,0.597,13
+janelas adjacentes,para trás,2,1,0,Regra do EAR por faixas,mesmos km,0.587,0.554,0.631,13,0.583,0.55,0.633,13,0.29,0.217,0.364,13
+janelas adjacentes,para trás,2,1,0,Regra do EAR por faixas,km fora da calibração,0.587,0.554,0.631,13,0.583,0.55,0.633,13,0.29,0.217,0.364,13
+janelas adjacentes,para trás,2,1,0,EAR calibrado (atributos da via),mesmos km,0.764,0.704,0.853,13,0.68,0.643,0.712,13,0.557,0.399,0.732,13
+janelas adjacentes,para trás,2,1,0,EAR calibrado (atributos da via),km fora da calibração,0.73,0.67,0.822,13,0.633,0.563,0.678,13,0.509,0.366,0.714,13
+janelas adjacentes,para frente,2,2,0,Regra do EAR por faixas,mesmos km,0.587,0.565,0.616,12,0.583,0.558,0.614,12,0.288,0.228,0.362,12
+janelas adjacentes,para frente,2,2,0,Regra do EAR por faixas,km fora da calibração,0.587,0.565,0.616,12,0.583,0.558,0.614,12,0.288,0.228,0.362,12
+janelas adjacentes,para frente,2,2,0,EAR calibrado (atributos da via),mesmos km,0.76,0.726,0.811,12,0.675,0.66,0.703,12,0.54,0.476,0.664,12
+janelas adjacentes,para frente,2,2,0,EAR calibrado (atributos da via),km fora da calibração,0.73,0.699,0.765,12,0.628,0.588,0.665,12,0.484,0.418,0.59,12
+janelas adjacentes,para trás,2,2,0,Regra do EAR por faixas,mesmos km,0.589,0.565,0.616,12,0.587,0.558,0.614,12,0.295,0.228,0.362,12
+janelas adjacentes,para trás,2,2,0,Regra do EAR por faixas,km fora da calibração,0.589,0.565,0.616,12,0.587,0.558,0.614,12,0.295,0.228,0.362,12
+janelas adjacentes,para trás,2,2,0,EAR calibrado (atributos da via),mesmos km,0.752,0.705,0.824,12,0.673,0.632,0.698,12,0.534,0.438,0.681,12
+janelas adjacentes,para trás,2,2,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.669,0.793,12,0.627,0.563,0.665,12,0.485,0.401,0.629,12
+janelas adjacentes,para frente,2,5,0,Regra do EAR por faixas,mesmos km,0.588,0.567,0.606,9,0.586,0.563,0.603,9,0.286,0.234,0.346,9
+janelas adjacentes,para frente,2,5,0,Regra do EAR por faixas,km fora da calibração,0.588,0.567,0.606,9,0.586,0.563,0.603,9,0.286,0.234,0.346,9
+janelas adjacentes,para frente,2,5,0,EAR calibrado (atributos da via),mesmos km,0.746,0.71,0.79,9,0.671,0.653,0.678,9,0.51,0.466,0.579,9
+janelas adjacentes,para frente,2,5,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.694,0.758,9,0.629,0.611,0.645,9,0.453,0.413,0.514,9
+janelas adjacentes,para trás,2,5,0,Regra do EAR por faixas,mesmos km,0.593,0.577,0.606,9,0.592,0.578,0.603,9,0.305,0.25,0.346,9
+janelas adjacentes,para trás,2,5,0,Regra do EAR por faixas,km fora da calibração,0.593,0.577,0.606,9,0.592,0.578,0.603,9,0.305,0.25,0.346,9
+janelas adjacentes,para trás,2,5,0,EAR calibrado (atributos da via),mesmos km,0.731,0.704,0.752,9,0.66,0.633,0.682,9,0.499,0.455,0.567,9
+janelas adjacentes,para trás,2,5,0,EAR calibrado (atributos da via),km fora da calibração,0.7,0.673,0.726,9,0.615,0.585,0.646,9,0.45,0.406,0.528,9
+janelas adjacentes,para frente,5,1,0,Regra do EAR por faixas,mesmos km,0.581,0.559,0.629,10,0.576,0.55,0.633,10,0.272,0.217,0.358,10
+janelas adjacentes,para frente,5,1,0,Regra do EAR por faixas,km fora da calibração,0.581,0.559,0.629,10,0.576,0.55,0.633,10,0.272,0.217,0.358,10
+janelas adjacentes,para frente,5,1,0,EAR calibrado (atributos da via),mesmos km,0.77,0.703,0.832,10,0.684,0.646,0.709,10,0.569,0.434,0.705,10
+janelas adjacentes,para frente,5,1,0,EAR calibrado (atributos da via),km fora da calibração,0.743,0.69,0.797,10,0.631,0.61,0.68,10,0.499,0.398,0.616,10
+janelas adjacentes,para trás,5,1,0,Regra do EAR por faixas,mesmos km,0.592,0.554,0.631,10,0.591,0.556,0.633,10,0.307,0.227,0.364,10
+janelas adjacentes,para trás,5,1,0,Regra do EAR por faixas,km fora da calibração,0.592,0.554,0.631,10,0.591,0.556,0.633,10,0.307,0.227,0.364,10
+janelas adjacentes,para trás,5,1,0,EAR calibrado (atributos da via),mesmos km,0.749,0.707,0.775,10,0.679,0.65,0.716,10,0.532,0.366,0.611,10
+janelas adjacentes,para trás,5,1,0,EAR calibrado (atributos da via),km fora da calibração,0.724,0.68,0.753,10,0.64,0.593,0.684,10,0.489,0.361,0.574,10
+janelas adjacentes,para frente,5,2,0,Regra do EAR por faixas,mesmos km,0.581,0.565,0.616,9,0.578,0.558,0.614,9,0.268,0.228,0.349,9
+janelas adjacentes,para frente,5,2,0,Regra do EAR por faixas,km fora da calibração,0.581,0.565,0.616,9,0.578,0.558,0.614,9,0.268,0.228,0.349,9
+janelas adjacentes,para frente,5,2,0,EAR calibrado (atributos da via),mesmos km,0.768,0.726,0.819,9,0.681,0.668,0.695,9,0.557,0.476,0.659,9
+janelas adjacentes,para frente,5,2,0,EAR calibrado (atributos da via),km fora da calibração,0.741,0.71,0.787,9,0.633,0.614,0.658,9,0.493,0.433,0.578,9
+janelas adjacentes,para trás,5,2,0,Regra do EAR por faixas,mesmos km,0.596,0.569,0.616,9,0.594,0.577,0.614,9,0.316,0.268,0.362,9
+janelas adjacentes,para trás,5,2,0,Regra do EAR por faixas,km fora da calibração,0.596,0.569,0.616,9,0.594,0.577,0.614,9,0.316,0.268,0.362,9
+janelas adjacentes,para trás,5,2,0,EAR calibrado (atributos da via),mesmos km,0.741,0.711,0.759,9,0.674,0.652,0.703,9,0.51,0.41,0.564,9
+janelas adjacentes,para trás,5,2,0,EAR calibrado (atributos da via),km fora da calibração,0.717,0.682,0.737,9,0.637,0.602,0.676,9,0.47,0.384,0.52,9
+janelas adjacentes,para frente,5,5,0,Regra do EAR por faixas,mesmos km,0.581,0.567,0.596,6,0.58,0.563,0.595,6,0.261,0.234,0.302,6
+janelas adjacentes,para frente,5,5,0,Regra do EAR por faixas,km fora da calibração,0.581,0.567,0.596,6,0.58,0.563,0.595,6,0.261,0.234,0.302,6
+janelas adjacentes,para frente,5,5,0,EAR calibrado (atributos da via),mesmos km,0.759,0.72,0.801,6,0.675,0.662,0.69,6,0.535,0.472,0.631,6
+janelas adjacentes,para frente,5,5,0,EAR calibrado (atributos da via),km fora da calibração,0.736,0.706,0.772,6,0.634,0.626,0.646,6,0.472,0.44,0.55,6
+janelas adjacentes,para trás,5,5,0,Regra do EAR por faixas,mesmos km,0.597,0.588,0.606,6,0.596,0.591,0.603,6,0.327,0.302,0.346,6
+janelas adjacentes,para trás,5,5,0,Regra do EAR por faixas,km fora da calibração,0.597,0.588,0.606,6,0.596,0.591,0.603,6,0.327,0.302,0.346,6
+janelas adjacentes,para trás,5,5,0,EAR calibrado (atributos da via),mesmos km,0.735,0.719,0.746,6,0.67,0.658,0.679,6,0.5,0.453,0.524,6
+janelas adjacentes,para trás,5,5,0,EAR calibrado (atributos da via),km fora da calibração,0.71,0.691,0.72,6,0.63,0.613,0.644,6,0.459,0.421,0.481,6
+janelas adjacentes,para frente,10,1,0,Regra do EAR por faixas,mesmos km,0.57,0.565,0.576,5,0.56,0.55,0.571,5,0.246,0.217,0.281,5
+janelas adjacentes,para frente,10,1,0,Regra do EAR por faixas,km fora da calibração,0.57,0.565,0.576,5,0.56,0.55,0.571,5,0.246,0.217,0.281,5
+janelas adjacentes,para frente,10,1,0,EAR calibrado (atributos da via),mesmos km,0.793,0.755,0.824,5,0.682,0.632,0.714,5,0.62,0.559,0.661,5
+janelas adjacentes,para frente,10,1,0,EAR calibrado (atributos da via),km fora da calibração,0.766,0.728,0.797,5,0.629,0.584,0.653,5,0.542,0.474,0.58,5
+janelas adjacentes,para trás,10,1,0,Regra do EAR por faixas,mesmos km,0.592,0.554,0.631,5,0.59,0.563,0.617,5,0.315,0.228,0.364,5
+janelas adjacentes,para trás,10,1,0,Regra do EAR por faixas,km fora da calibração,0.592,0.554,0.631,5,0.59,0.563,0.617,5,0.315,0.228,0.364,5
+janelas adjacentes,para trás,10,1,0,EAR calibrado (atributos da via),mesmos km,0.749,0.736,0.767,5,0.677,0.644,0.717,5,0.554,0.513,0.63,5
+janelas adjacentes,para trás,10,1,0,EAR calibrado (atributos da via),km fora da calibração,0.725,0.714,0.741,5,0.646,0.62,0.679,5,0.499,0.464,0.58,5
+janelas adjacentes,para frente,10,2,0,Regra do EAR por faixas,mesmos km,0.57,0.565,0.575,4,0.564,0.558,0.568,4,0.241,0.228,0.261,4
+janelas adjacentes,para frente,10,2,0,Regra do EAR por faixas,km fora da calibração,0.57,0.565,0.575,4,0.564,0.558,0.568,4,0.241,0.228,0.261,4
+janelas adjacentes,para frente,10,2,0,EAR calibrado (atributos da via),mesmos km,0.79,0.775,0.804,4,0.681,0.654,0.7,4,0.618,0.596,0.655,4
+janelas adjacentes,para frente,10,2,0,EAR calibrado (atributos da via),km fora da calibração,0.763,0.748,0.773,4,0.631,0.603,0.652,4,0.548,0.515,0.566,4
+janelas adjacentes,para trás,10,2,0,Regra do EAR por faixas,mesmos km,0.595,0.569,0.615,4,0.595,0.577,0.609,4,0.319,0.268,0.354,4
+janelas adjacentes,para trás,10,2,0,Regra do EAR por faixas,km fora da calibração,0.595,0.569,0.615,4,0.595,0.577,0.609,4,0.319,0.268,0.354,4
+janelas adjacentes,para trás,10,2,0,EAR calibrado (atributos da via),mesmos km,0.744,0.737,0.753,4,0.671,0.645,0.699,4,0.534,0.505,0.55,4
+janelas adjacentes,para trás,10,2,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.716,0.729,4,0.641,0.623,0.665,4,0.472,0.447,0.498,4
+janelas adjacentes,para frente,10,5,0,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.563,0.563,0.563,1,0.241,0.241,0.241,1
+janelas adjacentes,para frente,10,5,0,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.563,0.563,0.563,1,0.241,0.241,0.241,1
+janelas adjacentes,para frente,10,5,0,EAR calibrado (atributos da via),mesmos km,0.775,0.775,0.775,1,0.663,0.663,0.663,1,0.589,0.589,0.589,1
+janelas adjacentes,para frente,10,5,0,EAR calibrado (atributos da via),km fora da calibração,0.752,0.752,0.752,1,0.617,0.617,0.617,1,0.531,0.531,0.531,1
+janelas adjacentes,para trás,10,5,0,Regra do EAR por faixas,mesmos km,0.588,0.588,0.588,1,0.591,0.591,0.591,1,0.31,0.31,0.31,1
+janelas adjacentes,para trás,10,5,0,Regra do EAR por faixas,km fora da calibração,0.588,0.588,0.588,1,0.591,0.591,0.591,1,0.31,0.31,0.31,1
+janelas adjacentes,para trás,10,5,0,EAR calibrado (atributos da via),mesmos km,0.726,0.726,0.726,1,0.659,0.659,0.659,1,0.491,0.491,0.491,1
+janelas adjacentes,para trás,10,5,0,EAR calibrado (atributos da via),km fora da calibração,0.705,0.705,0.705,1,0.63,0.63,0.63,1,0.452,0.452,0.452,1
+todos os anos disponíveis,para frente,3,1,0,Regra do EAR por faixas,mesmos km,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para frente,3,1,0,Regra do EAR por faixas,km fora da calibração,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para frente,3,1,0,EAR calibrado (atributos da via),mesmos km,0.733,0.733,0.733,1,0.704,0.704,0.704,1,0.467,0.467,0.467,1
+todos os anos disponíveis,para frente,3,1,0,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.677,0.677,0.677,1,0.472,0.472,0.472,1
+todos os anos disponíveis,para frente,4,1,0,Regra do EAR por faixas,mesmos km,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+todos os anos disponíveis,para frente,4,1,0,Regra do EAR por faixas,km fora da calibração,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+todos os anos disponíveis,para frente,4,1,0,EAR calibrado (atributos da via),mesmos km,0.725,0.725,0.725,1,0.676,0.676,0.676,1,0.521,0.521,0.521,1
+todos os anos disponíveis,para frente,4,1,0,EAR calibrado (atributos da via),km fora da calibração,0.714,0.714,0.714,1,0.651,0.651,0.651,1,0.487,0.487,0.487,1
+todos os anos disponíveis,para frente,5,1,0,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+todos os anos disponíveis,para frente,5,1,0,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+todos os anos disponíveis,para frente,5,1,0,EAR calibrado (atributos da via),mesmos km,0.703,0.703,0.703,1,0.651,0.651,0.651,1,0.461,0.461,0.461,1
+todos os anos disponíveis,para frente,5,1,0,EAR calibrado (atributos da via),km fora da calibração,0.69,0.69,0.69,1,0.612,0.612,0.612,1,0.424,0.424,0.424,1
+todos os anos disponíveis,para frente,6,1,0,Regra do EAR por faixas,mesmos km,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para frente,6,1,0,Regra do EAR por faixas,km fora da calibração,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para frente,6,1,0,EAR calibrado (atributos da via),mesmos km,0.751,0.751,0.751,1,0.703,0.703,0.703,1,0.508,0.508,0.508,1
+todos os anos disponíveis,para frente,6,1,0,EAR calibrado (atributos da via),km fora da calibração,0.731,0.731,0.731,1,0.663,0.663,0.663,1,0.497,0.497,0.497,1
+todos os anos disponíveis,para frente,7,1,0,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+todos os anos disponíveis,para frente,7,1,0,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+todos os anos disponíveis,para frente,7,1,0,EAR calibrado (atributos da via),mesmos km,0.697,0.697,0.697,1,0.641,0.641,0.641,1,0.428,0.428,0.428,1
+todos os anos disponíveis,para frente,7,1,0,EAR calibrado (atributos da via),km fora da calibração,0.685,0.685,0.685,1,0.605,0.605,0.605,1,0.404,0.404,0.404,1
+todos os anos disponíveis,para frente,8,1,0,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+todos os anos disponíveis,para frente,8,1,0,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+todos os anos disponíveis,para frente,8,1,0,EAR calibrado (atributos da via),mesmos km,0.732,0.732,0.732,1,0.686,0.686,0.686,1,0.454,0.454,0.454,1
+todos os anos disponíveis,para frente,8,1,0,EAR calibrado (atributos da via),km fora da calibração,0.713,0.713,0.713,1,0.651,0.651,0.651,1,0.404,0.404,0.404,1
+todos os anos disponíveis,para frente,9,1,0,Regra do EAR por faixas,mesmos km,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+todos os anos disponíveis,para frente,9,1,0,Regra do EAR por faixas,km fora da calibração,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+todos os anos disponíveis,para frente,9,1,0,EAR calibrado (atributos da via),mesmos km,0.75,0.75,0.75,1,0.663,0.663,0.663,1,0.57,0.57,0.57,1
+todos os anos disponíveis,para frente,9,1,0,EAR calibrado (atributos da via),km fora da calibração,0.732,0.732,0.732,1,0.628,0.628,0.628,1,0.531,0.531,0.531,1
+todos os anos disponíveis,para frente,10,1,0,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para frente,10,1,0,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para frente,10,1,0,EAR calibrado (atributos da via),mesmos km,0.755,0.755,0.755,1,0.632,0.632,0.632,1,0.559,0.559,0.559,1
+todos os anos disponíveis,para frente,10,1,0,EAR calibrado (atributos da via),km fora da calibração,0.728,0.728,0.728,1,0.584,0.584,0.584,1,0.474,0.474,0.474,1
+todos os anos disponíveis,para frente,11,1,0,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+todos os anos disponíveis,para frente,11,1,0,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+todos os anos disponíveis,para frente,11,1,0,EAR calibrado (atributos da via),mesmos km,0.803,0.803,0.803,1,0.684,0.684,0.684,1,0.65,0.65,0.65,1
+todos os anos disponíveis,para frente,11,1,0,EAR calibrado (atributos da via),km fora da calibração,0.773,0.773,0.773,1,0.625,0.625,0.625,1,0.583,0.583,0.583,1
+todos os anos disponíveis,para frente,12,1,0,Regra do EAR por faixas,mesmos km,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+todos os anos disponíveis,para frente,12,1,0,Regra do EAR por faixas,km fora da calibração,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+todos os anos disponíveis,para frente,12,1,0,EAR calibrado (atributos da via),mesmos km,0.8,0.8,0.8,1,0.67,0.67,0.67,1,0.616,0.616,0.616,1
+todos os anos disponíveis,para frente,12,1,0,EAR calibrado (atributos da via),km fora da calibração,0.777,0.777,0.777,1,0.618,0.618,0.618,1,0.571,0.571,0.571,1
+todos os anos disponíveis,para frente,13,1,0,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+todos os anos disponíveis,para frente,13,1,0,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+todos os anos disponíveis,para frente,13,1,0,EAR calibrado (atributos da via),mesmos km,0.756,0.756,0.756,1,0.692,0.692,0.692,1,0.584,0.584,0.584,1
+todos os anos disponíveis,para frente,13,1,0,EAR calibrado (atributos da via),km fora da calibração,0.737,0.737,0.737,1,0.649,0.649,0.649,1,0.545,0.545,0.545,1
+todos os anos disponíveis,para frente,14,1,0,Regra do EAR por faixas,mesmos km,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+todos os anos disponíveis,para frente,14,1,0,Regra do EAR por faixas,km fora da calibração,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+todos os anos disponíveis,para frente,14,1,0,EAR calibrado (atributos da via),mesmos km,0.807,0.807,0.807,1,0.709,0.709,0.709,1,0.614,0.614,0.614,1
+todos os anos disponíveis,para frente,14,1,0,EAR calibrado (atributos da via),km fora da calibração,0.787,0.787,0.787,1,0.667,0.667,0.667,1,0.596,0.596,0.596,1
+todos os anos disponíveis,para trás,14,1,0,Regra do EAR por faixas,mesmos km,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+todos os anos disponíveis,para trás,14,1,0,Regra do EAR por faixas,km fora da calibração,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+todos os anos disponíveis,para trás,14,1,0,EAR calibrado (atributos da via),mesmos km,0.744,0.744,0.744,1,0.639,0.639,0.639,1,0.608,0.608,0.608,1
+todos os anos disponíveis,para trás,14,1,0,EAR calibrado (atributos da via),km fora da calibração,0.722,0.722,0.722,1,0.616,0.616,0.616,1,0.565,0.565,0.565,1
+todos os anos disponíveis,para trás,13,1,0,Regra do EAR por faixas,mesmos km,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+todos os anos disponíveis,para trás,13,1,0,Regra do EAR por faixas,km fora da calibração,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+todos os anos disponíveis,para trás,13,1,0,EAR calibrado (atributos da via),mesmos km,0.745,0.745,0.745,1,0.649,0.649,0.649,1,0.509,0.509,0.509,1
+todos os anos disponíveis,para trás,13,1,0,EAR calibrado (atributos da via),km fora da calibração,0.723,0.723,0.723,1,0.624,0.624,0.624,1,0.46,0.46,0.46,1
+todos os anos disponíveis,para trás,12,1,0,Regra do EAR por faixas,mesmos km,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para trás,12,1,0,Regra do EAR por faixas,km fora da calibração,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para trás,12,1,0,EAR calibrado (atributos da via),mesmos km,0.746,0.746,0.746,1,0.668,0.668,0.668,1,0.52,0.52,0.52,1
+todos os anos disponíveis,para trás,12,1,0,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.63,0.63,0.63,1,0.488,0.488,0.488,1
+todos os anos disponíveis,para trás,11,1,0,Regra do EAR por faixas,mesmos km,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para trás,11,1,0,Regra do EAR por faixas,km fora da calibração,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para trás,11,1,0,EAR calibrado (atributos da via),mesmos km,0.766,0.766,0.766,1,0.716,0.716,0.716,1,0.584,0.584,0.584,1
+todos os anos disponíveis,para trás,11,1,0,EAR calibrado (atributos da via),km fora da calibração,0.741,0.741,0.741,1,0.678,0.678,0.678,1,0.491,0.491,0.491,1
+todos os anos disponíveis,para trás,10,1,0,Regra do EAR por faixas,mesmos km,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+todos os anos disponíveis,para trás,10,1,0,Regra do EAR por faixas,km fora da calibração,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+todos os anos disponíveis,para trás,10,1,0,EAR calibrado (atributos da via),mesmos km,0.736,0.736,0.736,1,0.697,0.697,0.697,1,0.513,0.513,0.513,1
+todos os anos disponíveis,para trás,10,1,0,EAR calibrado (atributos da via),km fora da calibração,0.714,0.714,0.714,1,0.666,0.666,0.666,1,0.464,0.464,0.464,1
+todos os anos disponíveis,para trás,9,1,0,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+todos os anos disponíveis,para trás,9,1,0,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+todos os anos disponíveis,para trás,9,1,0,EAR calibrado (atributos da via),mesmos km,0.762,0.762,0.762,1,0.702,0.702,0.702,1,0.57,0.57,0.57,1
+todos os anos disponíveis,para trás,9,1,0,EAR calibrado (atributos da via),km fora da calibração,0.74,0.74,0.74,1,0.657,0.657,0.657,1,0.533,0.533,0.533,1
+todos os anos disponíveis,para trás,8,1,0,Regra do EAR por faixas,mesmos km,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para trás,8,1,0,Regra do EAR por faixas,km fora da calibração,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+todos os anos disponíveis,para trás,8,1,0,EAR calibrado (atributos da via),mesmos km,0.749,0.749,0.749,1,0.691,0.691,0.691,1,0.535,0.535,0.535,1
+todos os anos disponíveis,para trás,8,1,0,EAR calibrado (atributos da via),km fora da calibração,0.728,0.728,0.728,1,0.651,0.651,0.651,1,0.486,0.486,0.486,1
+todos os anos disponíveis,para trás,7,1,0,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+todos os anos disponíveis,para trás,7,1,0,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+todos os anos disponíveis,para trás,7,1,0,EAR calibrado (atributos da via),mesmos km,0.72,0.72,0.72,1,0.66,0.66,0.66,1,0.464,0.464,0.464,1
+todos os anos disponíveis,para trás,7,1,0,EAR calibrado (atributos da via),km fora da calibração,0.695,0.695,0.695,1,0.614,0.614,0.614,1,0.44,0.44,0.44,1
+todos os anos disponíveis,para trás,6,1,0,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+todos os anos disponíveis,para trás,6,1,0,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+todos os anos disponíveis,para trás,6,1,0,EAR calibrado (atributos da via),mesmos km,0.707,0.707,0.707,1,0.67,0.67,0.67,1,0.372,0.372,0.372,1
+todos os anos disponíveis,para trás,6,1,0,EAR calibrado (atributos da via),km fora da calibração,0.682,0.682,0.682,1,0.629,0.629,0.629,1,0.361,0.361,0.361,1
+todos os anos disponíveis,para trás,5,1,0,Regra do EAR por faixas,mesmos km,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+todos os anos disponíveis,para trás,5,1,0,Regra do EAR por faixas,km fora da calibração,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+todos os anos disponíveis,para trás,5,1,0,EAR calibrado (atributos da via),mesmos km,0.768,0.768,0.768,1,0.672,0.672,0.672,1,0.602,0.602,0.602,1
+todos os anos disponíveis,para trás,5,1,0,EAR calibrado (atributos da via),km fora da calibração,0.73,0.73,0.73,1,0.593,0.593,0.593,1,0.484,0.484,0.484,1
+todos os anos disponíveis,para trás,4,1,0,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para trás,4,1,0,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para trás,4,1,0,EAR calibrado (atributos da via),mesmos km,0.778,0.778,0.778,1,0.676,0.676,0.676,1,0.605,0.605,0.605,1
+todos os anos disponíveis,para trás,4,1,0,EAR calibrado (atributos da via),km fora da calibração,0.742,0.742,0.742,1,0.591,0.591,0.591,1,0.513,0.513,0.513,1
+todos os anos disponíveis,para trás,3,1,0,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+todos os anos disponíveis,para trás,3,1,0,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+todos os anos disponíveis,para trás,3,1,0,EAR calibrado (atributos da via),mesmos km,0.803,0.803,0.803,1,0.696,0.696,0.696,1,0.592,0.592,0.592,1
+todos os anos disponíveis,para trás,3,1,0,EAR calibrado (atributos da via),km fora da calibração,0.769,0.769,0.769,1,0.633,0.633,0.633,1,0.533,0.533,0.533,1
+todos os anos disponíveis,para frente,3,2,0,Regra do EAR por faixas,mesmos km,0.608,0.608,0.608,1,0.601,0.601,0.601,1,0.354,0.354,0.354,1
+todos os anos disponíveis,para frente,3,2,0,Regra do EAR por faixas,km fora da calibração,0.608,0.608,0.608,1,0.601,0.601,0.601,1,0.354,0.354,0.354,1
+todos os anos disponíveis,para frente,3,2,0,EAR calibrado (atributos da via),mesmos km,0.716,0.716,0.716,1,0.672,0.672,0.672,1,0.484,0.484,0.484,1
+todos os anos disponíveis,para frente,3,2,0,EAR calibrado (atributos da via),km fora da calibração,0.706,0.706,0.706,1,0.646,0.646,0.646,1,0.459,0.459,0.459,1
+todos os anos disponíveis,para frente,4,2,0,Regra do EAR por faixas,mesmos km,0.596,0.596,0.596,1,0.593,0.593,0.593,1,0.362,0.362,0.362,1
+todos os anos disponíveis,para frente,4,2,0,Regra do EAR por faixas,km fora da calibração,0.596,0.596,0.596,1,0.593,0.593,0.593,1,0.362,0.362,0.362,1
+todos os anos disponíveis,para frente,4,2,0,EAR calibrado (atributos da via),mesmos km,0.709,0.709,0.709,1,0.655,0.655,0.655,1,0.484,0.484,0.484,1
+todos os anos disponíveis,para frente,4,2,0,EAR calibrado (atributos da via),km fora da calibração,0.698,0.698,0.698,1,0.63,0.63,0.63,1,0.448,0.448,0.448,1
+todos os anos disponíveis,para frente,5,2,0,Regra do EAR por faixas,mesmos km,0.616,0.616,0.616,1,0.614,0.614,0.614,1,0.349,0.349,0.349,1
+todos os anos disponíveis,para frente,5,2,0,Regra do EAR por faixas,km fora da calibração,0.616,0.616,0.616,1,0.614,0.614,0.614,1,0.349,0.349,0.349,1
+todos os anos disponíveis,para frente,5,2,0,EAR calibrado (atributos da via),mesmos km,0.726,0.726,0.726,1,0.673,0.673,0.673,1,0.486,0.486,0.486,1
+todos os anos disponíveis,para frente,5,2,0,EAR calibrado (atributos da via),km fora da calibração,0.711,0.711,0.711,1,0.639,0.639,0.639,1,0.457,0.457,0.457,1
+todos os anos disponíveis,para frente,6,2,0,Regra do EAR por faixas,mesmos km,0.598,0.598,0.598,1,0.595,0.595,0.595,1,0.305,0.305,0.305,1
+todos os anos disponíveis,para frente,6,2,0,Regra do EAR por faixas,km fora da calibração,0.598,0.598,0.598,1,0.595,0.595,0.595,1,0.305,0.305,0.305,1
+todos os anos disponíveis,para frente,6,2,0,EAR calibrado (atributos da via),mesmos km,0.722,0.722,0.722,1,0.667,0.667,0.667,1,0.462,0.462,0.462,1
+todos os anos disponíveis,para frente,6,2,0,EAR calibrado (atributos da via),km fora da calibração,0.705,0.705,0.705,1,0.63,0.63,0.63,1,0.45,0.45,0.45,1
+todos os anos disponíveis,para frente,7,2,0,Regra do EAR por faixas,mesmos km,0.584,0.584,0.584,1,0.583,0.583,0.583,1,0.284,0.284,0.284,1
+todos os anos disponíveis,para frente,7,2,0,Regra do EAR por faixas,km fora da calibração,0.584,0.584,0.584,1,0.583,0.583,0.583,1,0.284,0.284,0.284,1
+todos os anos disponíveis,para frente,7,2,0,EAR calibrado (atributos da via),mesmos km,0.714,0.714,0.714,1,0.657,0.657,0.657,1,0.45,0.45,0.45,1
+todos os anos disponíveis,para frente,7,2,0,EAR calibrado (atributos da via),km fora da calibração,0.698,0.698,0.698,1,0.622,0.622,0.622,1,0.404,0.404,0.404,1
+todos os anos disponíveis,para frente,8,2,0,Regra do EAR por faixas,mesmos km,0.586,0.586,0.586,1,0.587,0.587,0.587,1,0.27,0.27,0.27,1
+todos os anos disponíveis,para frente,8,2,0,Regra do EAR por faixas,km fora da calibração,0.586,0.586,0.586,1,0.587,0.587,0.587,1,0.27,0.27,0.27,1
+todos os anos disponíveis,para frente,8,2,0,EAR calibrado (atributos da via),mesmos km,0.739,0.739,0.739,1,0.671,0.671,0.671,1,0.495,0.495,0.495,1
+todos os anos disponíveis,para frente,8,2,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.72,0.72,1,0.636,0.636,0.636,1,0.444,0.444,0.444,1
+todos os anos disponíveis,para frente,9,2,0,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.566,0.566,0.566,1,0.236,0.236,0.236,1
+todos os anos disponíveis,para frente,9,2,0,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.566,0.566,0.566,1,0.236,0.236,0.236,1
+todos os anos disponíveis,para frente,9,2,0,EAR calibrado (atributos da via),mesmos km,0.747,0.747,0.747,1,0.646,0.646,0.646,1,0.554,0.554,0.554,1
+todos os anos disponíveis,para frente,9,2,0,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.607,0.607,0.607,1,0.496,0.496,0.496,1
+todos os anos disponíveis,para frente,10,2,0,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.558,0.558,0.558,1,0.232,0.232,0.232,1
+todos os anos disponíveis,para frente,10,2,0,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.558,0.558,0.558,1,0.232,0.232,0.232,1
+todos os anos disponíveis,para frente,10,2,0,EAR calibrado (atributos da via),mesmos km,0.775,0.775,0.775,1,0.654,0.654,0.654,1,0.596,0.596,0.596,1
+todos os anos disponíveis,para frente,10,2,0,EAR calibrado (atributos da via),km fora da calibração,0.748,0.748,0.748,1,0.603,0.603,0.603,1,0.515,0.515,0.515,1
+todos os anos disponíveis,para frente,11,2,0,Regra do EAR por faixas,mesmos km,0.575,0.575,0.575,1,0.568,0.568,0.568,1,0.228,0.228,0.228,1
+todos os anos disponíveis,para frente,11,2,0,Regra do EAR por faixas,km fora da calibração,0.575,0.575,0.575,1,0.568,0.568,0.568,1,0.228,0.228,0.228,1
+todos os anos disponíveis,para frente,11,2,0,EAR calibrado (atributos da via),mesmos km,0.801,0.801,0.801,1,0.678,0.678,0.678,1,0.629,0.629,0.629,1
+todos os anos disponíveis,para frente,11,2,0,EAR calibrado (atributos da via),km fora da calibração,0.775,0.775,0.775,1,0.626,0.626,0.626,1,0.578,0.578,0.578,1
+todos os anos disponíveis,para frente,12,2,0,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.56,0.56,0.56,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para frente,12,2,0,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.56,0.56,0.56,1,0.243,0.243,0.243,1
+todos os anos disponíveis,para frente,12,2,0,EAR calibrado (atributos da via),mesmos km,0.783,0.783,0.783,1,0.679,0.679,0.679,1,0.598,0.598,0.598,1
+todos os anos disponíveis,para frente,12,2,0,EAR calibrado (atributos da via),km fora da calibração,0.761,0.761,0.761,1,0.632,0.632,0.632,1,0.55,0.55,0.55,1
+todos os anos disponíveis,para frente,13,2,0,Regra do EAR por faixas,mesmos km,0.571,0.571,0.571,1,0.568,0.568,0.568,1,0.261,0.261,0.261,1
+todos os anos disponíveis,para frente,13,2,0,Regra do EAR por faixas,km fora da calibração,0.571,0.571,0.571,1,0.568,0.568,0.568,1,0.261,0.261,0.261,1
+todos os anos disponíveis,para frente,13,2,0,EAR calibrado (atributos da via),mesmos km,0.776,0.776,0.776,1,0.697,0.697,0.697,1,0.597,0.597,0.597,1
+todos os anos disponíveis,para frente,13,2,0,EAR calibrado (atributos da via),km fora da calibração,0.756,0.756,0.756,1,0.657,0.657,0.657,1,0.56,0.56,0.56,1
+todos os anos disponíveis,para trás,13,2,0,Regra do EAR por faixas,mesmos km,0.569,0.569,0.569,1,0.577,0.577,0.577,1,0.268,0.268,0.268,1
+todos os anos disponíveis,para trás,13,2,0,Regra do EAR por faixas,km fora da calibração,0.569,0.569,0.569,1,0.577,0.577,0.577,1,0.268,0.268,0.268,1
+todos os anos disponíveis,para trás,13,2,0,EAR calibrado (atributos da via),mesmos km,0.735,0.735,0.735,1,0.64,0.64,0.64,1,0.532,0.532,0.532,1
+todos os anos disponíveis,para trás,13,2,0,EAR calibrado (atributos da via),km fora da calibração,0.716,0.716,0.716,1,0.62,0.62,0.62,1,0.493,0.493,0.493,1
+todos os anos disponíveis,para trás,12,2,0,Regra do EAR por faixas,mesmos km,0.59,0.59,0.59,1,0.592,0.592,0.592,1,0.32,0.32,0.32,1
+todos os anos disponíveis,para trás,12,2,0,Regra do EAR por faixas,km fora da calibração,0.59,0.59,0.59,1,0.592,0.592,0.592,1,0.32,0.32,0.32,1
+todos os anos disponíveis,para trás,12,2,0,EAR calibrado (atributos da via),mesmos km,0.736,0.736,0.736,1,0.654,0.654,0.654,1,0.488,0.488,0.488,1
+todos os anos disponíveis,para trás,12,2,0,EAR calibrado (atributos da via),km fora da calibração,0.716,0.716,0.716,1,0.624,0.624,0.624,1,0.447,0.447,0.447,1
+todos os anos disponíveis,para trás,11,2,0,Regra do EAR por faixas,mesmos km,0.615,0.615,0.615,1,0.609,0.609,0.609,1,0.335,0.335,0.335,1
+todos os anos disponíveis,para trás,11,2,0,Regra do EAR por faixas,km fora da calibração,0.615,0.615,0.615,1,0.609,0.609,0.609,1,0.335,0.335,0.335,1
+todos os anos disponíveis,para trás,11,2,0,EAR calibrado (atributos da via),mesmos km,0.753,0.753,0.753,1,0.685,0.685,0.685,1,0.55,0.55,0.55,1
+todos os anos disponíveis,para trás,11,2,0,EAR calibrado (atributos da via),km fora da calibração,0.729,0.729,0.729,1,0.649,0.649,0.649,1,0.472,0.472,0.472,1
+todos os anos disponíveis,para trás,10,2,0,Regra do EAR por faixas,mesmos km,0.608,0.608,0.608,1,0.601,0.601,0.601,1,0.354,0.354,0.354,1
+todos os anos disponíveis,para trás,10,2,0,Regra do EAR por faixas,km fora da calibração,0.608,0.608,0.608,1,0.601,0.601,0.601,1,0.354,0.354,0.354,1
+todos os anos disponíveis,para trás,10,2,0,EAR calibrado (atributos da via),mesmos km,0.744,0.744,0.744,1,0.699,0.699,0.699,1,0.535,0.535,0.535,1
+todos os anos disponíveis,para trás,10,2,0,EAR calibrado (atributos da via),km fora da calibração,0.719,0.719,0.719,1,0.665,0.665,0.665,1,0.476,0.476,0.476,1
+todos os anos disponíveis,para trás,9,2,0,Regra do EAR por faixas,mesmos km,0.596,0.596,0.596,1,0.593,0.593,0.593,1,0.362,0.362,0.362,1
+todos os anos disponíveis,para trás,9,2,0,Regra do EAR por faixas,km fora da calibração,0.596,0.596,0.596,1,0.593,0.593,0.593,1,0.362,0.362,0.362,1
+todos os anos disponíveis,para trás,9,2,0,EAR calibrado (atributos da via),mesmos km,0.743,0.743,0.743,1,0.69,0.69,0.69,1,0.528,0.528,0.528,1
+todos os anos disponíveis,para trás,9,2,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.72,0.72,1,0.655,0.655,0.655,1,0.488,0.488,0.488,1
+todos os anos disponíveis,para trás,8,2,0,Regra do EAR por faixas,mesmos km,0.616,0.616,0.616,1,0.614,0.614,0.614,1,0.349,0.349,0.349,1
+todos os anos disponíveis,para trás,8,2,0,Regra do EAR por faixas,km fora da calibração,0.616,0.616,0.616,1,0.614,0.614,0.614,1,0.349,0.349,0.349,1
+todos os anos disponíveis,para trás,8,2,0,EAR calibrado (atributos da via),mesmos km,0.76,0.76,0.76,1,0.689,0.689,0.689,1,0.563,0.563,0.563,1
+todos os anos disponíveis,para trás,8,2,0,EAR calibrado (atributos da via),km fora da calibração,0.738,0.738,0.738,1,0.651,0.651,0.651,1,0.52,0.52,0.52,1
+todos os anos disponíveis,para trás,7,2,0,Regra do EAR por faixas,mesmos km,0.598,0.598,0.598,1,0.595,0.595,0.595,1,0.305,0.305,0.305,1
+todos os anos disponíveis,para trás,7,2,0,Regra do EAR por faixas,km fora da calibração,0.598,0.598,0.598,1,0.595,0.595,0.595,1,0.305,0.305,0.305,1
+todos os anos disponíveis,para trás,7,2,0,EAR calibrado (atributos da via),mesmos km,0.733,0.733,0.733,1,0.672,0.672,0.672,1,0.501,0.501,0.501,1
+todos os anos disponíveis,para trás,7,2,0,EAR calibrado (atributos da via),km fora da calibração,0.71,0.71,0.71,1,0.628,0.628,0.628,1,0.473,0.473,0.473,1
+todos os anos disponíveis,para trás,6,2,0,Regra do EAR por faixas,mesmos km,0.584,0.584,0.584,1,0.583,0.583,0.583,1,0.284,0.284,0.284,1
+todos os anos disponíveis,para trás,6,2,0,Regra do EAR por faixas,km fora da calibração,0.584,0.584,0.584,1,0.583,0.583,0.583,1,0.284,0.284,0.284,1
+todos os anos disponíveis,para trás,6,2,0,EAR calibrado (atributos da via),mesmos km,0.712,0.712,0.712,1,0.655,0.655,0.655,1,0.413,0.413,0.413,1
+todos os anos disponíveis,para trás,6,2,0,EAR calibrado (atributos da via),km fora da calibração,0.684,0.684,0.684,1,0.607,0.607,0.607,1,0.381,0.381,0.381,1
+todos os anos disponíveis,para trás,5,2,0,Regra do EAR por faixas,mesmos km,0.586,0.586,0.586,1,0.587,0.587,0.587,1,0.27,0.27,0.27,1
+todos os anos disponíveis,para trás,5,2,0,Regra do EAR por faixas,km fora da calibração,0.586,0.586,0.586,1,0.587,0.587,0.587,1,0.27,0.27,0.27,1
+todos os anos disponíveis,para trás,5,2,0,EAR calibrado (atributos da via),mesmos km,0.729,0.729,0.729,1,0.663,0.663,0.663,1,0.444,0.444,0.444,1
+todos os anos disponíveis,para trás,5,2,0,EAR calibrado (atributos da via),km fora da calibração,0.7,0.7,0.7,1,0.602,0.602,0.602,1,0.408,0.408,0.408,1
+todos os anos disponíveis,para trás,4,2,0,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.566,0.566,0.566,1,0.236,0.236,0.236,1
+todos os anos disponíveis,para trás,4,2,0,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.566,0.566,0.566,1,0.236,0.236,0.236,1
+todos os anos disponíveis,para trás,4,2,0,EAR calibrado (atributos da via),mesmos km,0.761,0.761,0.761,1,0.671,0.671,0.671,1,0.604,0.604,0.604,1
+todos os anos disponíveis,para trás,4,2,0,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.588,0.588,0.588,1,0.507,0.507,0.507,1
+todos os anos disponíveis,para trás,3,2,0,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.558,0.558,0.558,1,0.232,0.232,0.232,1
+todos os anos disponíveis,para trás,3,2,0,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.558,0.558,0.558,1,0.232,0.232,0.232,1
+todos os anos disponíveis,para trás,3,2,0,EAR calibrado (atributos da via),mesmos km,0.787,0.787,0.787,1,0.684,0.684,0.684,1,0.61,0.61,0.61,1
+todos os anos disponíveis,para trás,3,2,0,EAR calibrado (atributos da via),km fora da calibração,0.755,0.755,0.755,1,0.626,0.626,0.626,1,0.562,0.562,0.562,1
+todos os anos disponíveis,para frente,3,5,0,Regra do EAR por faixas,mesmos km,0.601,0.601,0.601,1,0.597,0.597,0.597,1,0.337,0.337,0.337,1
+todos os anos disponíveis,para frente,3,5,0,Regra do EAR por faixas,km fora da calibração,0.601,0.601,0.601,1,0.597,0.597,0.597,1,0.337,0.337,0.337,1
+todos os anos disponíveis,para frente,3,5,0,EAR calibrado (atributos da via),mesmos km,0.699,0.699,0.699,1,0.654,0.654,0.654,1,0.448,0.448,0.448,1
+todos os anos disponíveis,para frente,3,5,0,EAR calibrado (atributos da via),km fora da calibração,0.688,0.688,0.688,1,0.623,0.623,0.623,1,0.431,0.431,0.431,1
+todos os anos disponíveis,para frente,4,5,0,Regra do EAR por faixas,mesmos km,0.597,0.597,0.597,1,0.595,0.595,0.595,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para frente,4,5,0,Regra do EAR por faixas,km fora da calibração,0.597,0.597,0.597,1,0.595,0.595,0.595,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para frente,4,5,0,EAR calibrado (atributos da via),mesmos km,0.711,0.711,0.711,1,0.659,0.659,0.659,1,0.466,0.466,0.466,1
+todos os anos disponíveis,para frente,4,5,0,EAR calibrado (atributos da via),km fora da calibração,0.699,0.699,0.699,1,0.627,0.627,0.627,1,0.432,0.432,0.432,1
+todos os anos disponíveis,para frente,5,5,0,Regra do EAR por faixas,mesmos km,0.596,0.596,0.596,1,0.595,0.595,0.595,1,0.302,0.302,0.302,1
+todos os anos disponíveis,para frente,5,5,0,Regra do EAR por faixas,km fora da calibração,0.596,0.596,0.596,1,0.595,0.595,0.595,1,0.302,0.302,0.302,1
+todos os anos disponíveis,para frente,5,5,0,EAR calibrado (atributos da via),mesmos km,0.72,0.72,0.72,1,0.662,0.662,0.662,1,0.472,0.472,0.472,1
+todos os anos disponíveis,para frente,5,5,0,EAR calibrado (atributos da via),km fora da calibração,0.706,0.706,0.706,1,0.626,0.626,0.626,1,0.44,0.44,0.44,1
+todos os anos disponíveis,para frente,6,5,0,Regra do EAR por faixas,mesmos km,0.592,0.592,0.592,1,0.591,0.591,0.591,1,0.28,0.28,0.28,1
+todos os anos disponíveis,para frente,6,5,0,Regra do EAR por faixas,km fora da calibração,0.592,0.592,0.592,1,0.591,0.591,0.591,1,0.28,0.28,0.28,1
+todos os anos disponíveis,para frente,6,5,0,EAR calibrado (atributos da via),mesmos km,0.73,0.73,0.73,1,0.66,0.66,0.66,1,0.486,0.486,0.486,1
+todos os anos disponíveis,para frente,6,5,0,EAR calibrado (atributos da via),km fora da calibração,0.713,0.713,0.713,1,0.624,0.624,0.624,1,0.452,0.452,0.452,1
+todos os anos disponíveis,para frente,7,5,0,Regra do EAR por faixas,mesmos km,0.577,0.577,0.577,1,0.578,0.578,0.578,1,0.255,0.255,0.255,1
+todos os anos disponíveis,para frente,7,5,0,Regra do EAR por faixas,km fora da calibração,0.577,0.577,0.577,1,0.578,0.578,0.578,1,0.255,0.255,0.255,1
+todos os anos disponíveis,para frente,7,5,0,EAR calibrado (atributos da via),mesmos km,0.737,0.737,0.737,1,0.654,0.654,0.654,1,0.501,0.501,0.501,1
+todos os anos disponíveis,para frente,7,5,0,EAR calibrado (atributos da via),km fora da calibração,0.719,0.719,0.719,1,0.615,0.615,0.615,1,0.463,0.463,0.463,1
+todos os anos disponíveis,para frente,8,5,0,Regra do EAR por faixas,mesmos km,0.582,0.582,0.582,1,0.582,0.582,0.582,1,0.25,0.25,0.25,1
+todos os anos disponíveis,para frente,8,5,0,Regra do EAR por faixas,km fora da calibração,0.582,0.582,0.582,1,0.582,0.582,0.582,1,0.25,0.25,0.25,1
+todos os anos disponíveis,para frente,8,5,0,EAR calibrado (atributos da via),mesmos km,0.757,0.757,0.757,1,0.663,0.663,0.663,1,0.535,0.535,0.535,1
+todos os anos disponíveis,para frente,8,5,0,EAR calibrado (atributos da via),km fora da calibração,0.736,0.736,0.736,1,0.62,0.62,0.62,1,0.492,0.492,0.492,1
+todos os anos disponíveis,para frente,9,5,0,Regra do EAR por faixas,mesmos km,0.569,0.569,0.569,1,0.569,0.569,0.569,1,0.234,0.234,0.234,1
+todos os anos disponíveis,para frente,9,5,0,Regra do EAR por faixas,km fora da calibração,0.569,0.569,0.569,1,0.569,0.569,0.569,1,0.234,0.234,0.234,1
+todos os anos disponíveis,para frente,9,5,0,EAR calibrado (atributos da via),mesmos km,0.764,0.764,0.764,1,0.657,0.657,0.657,1,0.572,0.572,0.572,1
+todos os anos disponíveis,para frente,9,5,0,EAR calibrado (atributos da via),km fora da calibração,0.743,0.743,0.743,1,0.615,0.615,0.615,1,0.525,0.525,0.525,1
+todos os anos disponíveis,para frente,10,5,0,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.563,0.563,0.563,1,0.241,0.241,0.241,1
+todos os anos disponíveis,para frente,10,5,0,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.563,0.563,0.563,1,0.241,0.241,0.241,1
+todos os anos disponíveis,para frente,10,5,0,EAR calibrado (atributos da via),mesmos km,0.775,0.775,0.775,1,0.663,0.663,0.663,1,0.589,0.589,0.589,1
+todos os anos disponíveis,para frente,10,5,0,EAR calibrado (atributos da via),km fora da calibração,0.752,0.752,0.752,1,0.617,0.617,0.617,1,0.531,0.531,0.531,1
+todos os anos disponíveis,para trás,10,5,0,Regra do EAR por faixas,mesmos km,0.588,0.588,0.588,1,0.591,0.591,0.591,1,0.31,0.31,0.31,1
+todos os anos disponíveis,para trás,10,5,0,Regra do EAR por faixas,km fora da calibração,0.588,0.588,0.588,1,0.591,0.591,0.591,1,0.31,0.31,0.31,1
+todos os anos disponíveis,para trás,10,5,0,EAR calibrado (atributos da via),mesmos km,0.726,0.726,0.726,1,0.659,0.659,0.659,1,0.491,0.491,0.491,1
+todos os anos disponíveis,para trás,10,5,0,EAR calibrado (atributos da via),km fora da calibração,0.705,0.705,0.705,1,0.63,0.63,0.63,1,0.452,0.452,0.452,1
+todos os anos disponíveis,para trás,9,5,0,Regra do EAR por faixas,mesmos km,0.597,0.597,0.597,1,0.596,0.596,0.596,1,0.339,0.339,0.339,1
+todos os anos disponíveis,para trás,9,5,0,Regra do EAR por faixas,km fora da calibração,0.597,0.597,0.597,1,0.596,0.596,0.596,1,0.339,0.339,0.339,1
+todos os anos disponíveis,para trás,9,5,0,EAR calibrado (atributos da via),mesmos km,0.74,0.74,0.74,1,0.673,0.673,0.673,1,0.5,0.5,0.5,1
+todos os anos disponíveis,para trás,9,5,0,EAR calibrado (atributos da via),km fora da calibração,0.716,0.716,0.716,1,0.638,0.638,0.638,1,0.454,0.454,0.454,1
+todos os anos disponíveis,para trás,8,5,0,Regra do EAR por faixas,mesmos km,0.606,0.606,0.606,1,0.603,0.603,0.603,1,0.346,0.346,0.346,1
+todos os anos disponíveis,para trás,8,5,0,Regra do EAR por faixas,km fora da calibração,0.606,0.606,0.606,1,0.603,0.603,0.603,1,0.346,0.346,0.346,1
+todos os anos disponíveis,para trás,8,5,0,EAR calibrado (atributos da via),mesmos km,0.744,0.744,0.744,1,0.679,0.679,0.679,1,0.52,0.52,0.52,1
+todos os anos disponíveis,para trás,8,5,0,EAR calibrado (atributos da via),km fora da calibração,0.72,0.72,0.72,1,0.641,0.641,0.641,1,0.467,0.467,0.467,1
+todos os anos disponíveis,para trás,7,5,0,Regra do EAR por faixas,mesmos km,0.601,0.601,0.601,1,0.597,0.597,0.597,1,0.337,0.337,0.337,1
+todos os anos disponíveis,para trás,7,5,0,Regra do EAR por faixas,km fora da calibração,0.601,0.601,0.601,1,0.597,0.597,0.597,1,0.337,0.337,0.337,1
+todos os anos disponíveis,para trás,7,5,0,EAR calibrado (atributos da via),mesmos km,0.737,0.737,0.737,1,0.68,0.68,0.68,1,0.513,0.513,0.513,1
+todos os anos disponíveis,para trás,7,5,0,EAR calibrado (atributos da via),km fora da calibração,0.712,0.712,0.712,1,0.639,0.639,0.639,1,0.462,0.462,0.462,1
+todos os anos disponíveis,para trás,6,5,0,Regra do EAR por faixas,mesmos km,0.597,0.597,0.597,1,0.595,0.595,0.595,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para trás,6,5,0,Regra do EAR por faixas,km fora da calibração,0.597,0.597,0.597,1,0.595,0.595,0.595,1,0.329,0.329,0.329,1
+todos os anos disponíveis,para trás,6,5,0,EAR calibrado (atributos da via),mesmos km,0.719,0.719,0.719,1,0.66,0.66,0.66,1,0.452,0.452,0.452,1
+todos os anos disponíveis,para trás,6,5,0,EAR calibrado (atributos da via),km fora da calibração,0.692,0.692,0.692,1,0.617,0.617,0.617,1,0.42,0.42,0.42,1
+todos os anos disponíveis,para trás,5,5,0,Regra do EAR por faixas,mesmos km,0.596,0.596,0.596,1,0.595,0.595,0.595,1,0.302,0.302,0.302,1
+todos os anos disponíveis,para trás,5,5,0,Regra do EAR por faixas,km fora da calibração,0.596,0.596,0.596,1,0.595,0.595,0.595,1,0.302,0.302,0.302,1
+todos os anos disponíveis,para trás,5,5,0,EAR calibrado (atributos da via),mesmos km,0.735,0.735,0.735,1,0.664,0.664,0.664,1,0.487,0.487,0.487,1
+todos os anos disponíveis,para trás,5,5,0,EAR calibrado (atributos da via),km fora da calibração,0.708,0.708,0.708,1,0.613,0.613,0.613,1,0.445,0.445,0.445,1
+todos os anos disponíveis,para trás,4,5,0,Regra do EAR por faixas,mesmos km,0.592,0.592,0.592,1,0.591,0.591,0.591,1,0.28,0.28,0.28,1
+todos os anos disponíveis,para trás,4,5,0,Regra do EAR por faixas,km fora da calibração,0.592,0.592,0.592,1,0.591,0.591,0.591,1,0.28,0.28,0.28,1
+todos os anos disponíveis,para trás,4,5,0,EAR calibrado (atributos da via),mesmos km,0.724,0.724,0.724,1,0.661,0.661,0.661,1,0.502,0.502,0.502,1
+todos os anos disponíveis,para trás,4,5,0,EAR calibrado (atributos da via),km fora da calibração,0.695,0.695,0.695,1,0.606,0.606,0.606,1,0.445,0.445,0.445,1
+todos os anos disponíveis,para trás,3,5,0,Regra do EAR por faixas,mesmos km,0.577,0.577,0.577,1,0.578,0.578,0.578,1,0.255,0.255,0.255,1
+todos os anos disponíveis,para trás,3,5,0,Regra do EAR por faixas,km fora da calibração,0.577,0.577,0.577,1,0.578,0.578,0.578,1,0.255,0.255,0.255,1
+todos os anos disponíveis,para trás,3,5,0,EAR calibrado (atributos da via),mesmos km,0.731,0.731,0.731,1,0.66,0.66,0.66,1,0.517,0.517,0.517,1
+todos os anos disponíveis,para trás,3,5,0,EAR calibrado (atributos da via),km fora da calibração,0.704,0.704,0.704,1,0.612,0.612,0.612,1,0.478,0.478,0.478,1
+com defasagem,para frente,3,1,2,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para frente,3,1,2,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para frente,3,1,2,EAR calibrado (atributos da via),mesmos km,0.666,0.666,0.666,1,0.623,0.623,0.623,1,0.376,0.376,0.376,1
+com defasagem,para frente,3,1,2,EAR calibrado (atributos da via),km fora da calibração,0.657,0.657,0.657,1,0.588,0.588,0.588,1,0.364,0.364,0.364,1
+com defasagem,para frente,4,1,2,Regra do EAR por faixas,mesmos km,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para frente,4,1,2,Regra do EAR por faixas,km fora da calibração,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para frente,4,1,2,EAR calibrado (atributos da via),mesmos km,0.737,0.737,0.737,1,0.694,0.694,0.694,1,0.508,0.508,0.508,1
+com defasagem,para frente,4,1,2,EAR calibrado (atributos da via),km fora da calibração,0.724,0.724,0.724,1,0.659,0.659,0.659,1,0.492,0.492,0.492,1
+com defasagem,para frente,5,1,2,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para frente,5,1,2,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para frente,5,1,2,EAR calibrado (atributos da via),mesmos km,0.685,0.685,0.685,1,0.636,0.636,0.636,1,0.428,0.428,0.428,1
+com defasagem,para frente,5,1,2,EAR calibrado (atributos da via),km fora da calibração,0.673,0.673,0.673,1,0.597,0.597,0.597,1,0.404,0.404,0.404,1
+com defasagem,para frente,6,1,2,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para frente,6,1,2,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para frente,6,1,2,EAR calibrado (atributos da via),mesmos km,0.729,0.729,0.729,1,0.681,0.681,0.681,1,0.47,0.47,0.47,1
+com defasagem,para frente,6,1,2,EAR calibrado (atributos da via),km fora da calibração,0.711,0.711,0.711,1,0.643,0.643,0.643,1,0.415,0.415,0.415,1
+com defasagem,para frente,7,1,2,Regra do EAR por faixas,mesmos km,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para frente,7,1,2,Regra do EAR por faixas,km fora da calibração,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para frente,7,1,2,EAR calibrado (atributos da via),mesmos km,0.746,0.746,0.746,1,0.657,0.657,0.657,1,0.562,0.562,0.562,1
+com defasagem,para frente,7,1,2,EAR calibrado (atributos da via),km fora da calibração,0.731,0.731,0.731,1,0.624,0.624,0.624,1,0.516,0.516,0.516,1
+com defasagem,para frente,8,1,2,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+com defasagem,para frente,8,1,2,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+com defasagem,para frente,8,1,2,EAR calibrado (atributos da via),mesmos km,0.745,0.745,0.745,1,0.623,0.623,0.623,1,0.526,0.526,0.526,1
+com defasagem,para frente,8,1,2,EAR calibrado (atributos da via),km fora da calibração,0.721,0.721,0.721,1,0.576,0.576,0.576,1,0.474,0.474,0.474,1
+com defasagem,para frente,9,1,2,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+com defasagem,para frente,9,1,2,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+com defasagem,para frente,9,1,2,EAR calibrado (atributos da via),mesmos km,0.793,0.793,0.793,1,0.675,0.675,0.675,1,0.608,0.608,0.608,1
+com defasagem,para frente,9,1,2,EAR calibrado (atributos da via),km fora da calibração,0.769,0.769,0.769,1,0.627,0.627,0.627,1,0.558,0.558,0.558,1
+com defasagem,para frente,10,1,2,Regra do EAR por faixas,mesmos km,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+com defasagem,para frente,10,1,2,Regra do EAR por faixas,km fora da calibração,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+com defasagem,para frente,10,1,2,EAR calibrado (atributos da via),mesmos km,0.789,0.789,0.789,1,0.66,0.66,0.66,1,0.598,0.598,0.598,1
+com defasagem,para frente,10,1,2,EAR calibrado (atributos da via),km fora da calibração,0.768,0.768,0.768,1,0.61,0.61,0.61,1,0.562,0.562,0.562,1
+com defasagem,para frente,11,1,2,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+com defasagem,para frente,11,1,2,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+com defasagem,para frente,11,1,2,EAR calibrado (atributos da via),mesmos km,0.751,0.751,0.751,1,0.685,0.685,0.685,1,0.558,0.558,0.558,1
+com defasagem,para frente,11,1,2,EAR calibrado (atributos da via),km fora da calibração,0.731,0.731,0.731,1,0.642,0.642,0.642,1,0.519,0.519,0.519,1
+com defasagem,para frente,12,1,2,Regra do EAR por faixas,mesmos km,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+com defasagem,para frente,12,1,2,Regra do EAR por faixas,km fora da calibração,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+com defasagem,para frente,12,1,2,EAR calibrado (atributos da via),mesmos km,0.8,0.8,0.8,1,0.698,0.698,0.698,1,0.596,0.596,0.596,1
+com defasagem,para frente,12,1,2,EAR calibrado (atributos da via),km fora da calibração,0.78,0.78,0.78,1,0.662,0.662,0.662,1,0.561,0.561,0.561,1
+com defasagem,para trás,12,1,2,Regra do EAR por faixas,mesmos km,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+com defasagem,para trás,12,1,2,Regra do EAR por faixas,km fora da calibração,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+com defasagem,para trás,12,1,2,EAR calibrado (atributos da via),mesmos km,0.709,0.709,0.709,1,0.622,0.622,0.622,1,0.5,0.5,0.5,1
+com defasagem,para trás,12,1,2,EAR calibrado (atributos da via),km fora da calibração,0.693,0.693,0.693,1,0.599,0.599,0.599,1,0.475,0.475,0.475,1
+com defasagem,para trás,11,1,2,Regra do EAR por faixas,mesmos km,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+com defasagem,para trás,11,1,2,Regra do EAR por faixas,km fora da calibração,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+com defasagem,para trás,11,1,2,EAR calibrado (atributos da via),mesmos km,0.72,0.72,0.72,1,0.637,0.637,0.637,1,0.436,0.436,0.436,1
+com defasagem,para trás,11,1,2,EAR calibrado (atributos da via),km fora da calibração,0.7,0.7,0.7,1,0.608,0.608,0.608,1,0.395,0.395,0.395,1
+com defasagem,para trás,10,1,2,Regra do EAR por faixas,mesmos km,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+com defasagem,para trás,10,1,2,Regra do EAR por faixas,km fora da calibração,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+com defasagem,para trás,10,1,2,EAR calibrado (atributos da via),mesmos km,0.732,0.732,0.732,1,0.656,0.656,0.656,1,0.496,0.496,0.496,1
+com defasagem,para trás,10,1,2,EAR calibrado (atributos da via),km fora da calibração,0.711,0.711,0.711,1,0.62,0.62,0.62,1,0.451,0.451,0.451,1
+com defasagem,para trás,9,1,2,Regra do EAR por faixas,mesmos km,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+com defasagem,para trás,9,1,2,Regra do EAR por faixas,km fora da calibração,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+com defasagem,para trás,9,1,2,EAR calibrado (atributos da via),mesmos km,0.752,0.752,0.752,1,0.711,0.711,0.711,1,0.537,0.537,0.537,1
+com defasagem,para trás,9,1,2,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.669,0.669,0.669,1,0.463,0.463,0.463,1
+com defasagem,para trás,8,1,2,Regra do EAR por faixas,mesmos km,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+com defasagem,para trás,8,1,2,Regra do EAR por faixas,km fora da calibração,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+com defasagem,para trás,8,1,2,EAR calibrado (atributos da via),mesmos km,0.725,0.725,0.725,1,0.689,0.689,0.689,1,0.483,0.483,0.483,1
+com defasagem,para trás,8,1,2,EAR calibrado (atributos da via),km fora da calibração,0.701,0.701,0.701,1,0.655,0.655,0.655,1,0.433,0.433,0.433,1
+com defasagem,para trás,7,1,2,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para trás,7,1,2,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para trás,7,1,2,EAR calibrado (atributos da via),mesmos km,0.761,0.761,0.761,1,0.7,0.7,0.7,1,0.582,0.582,0.582,1
+com defasagem,para trás,7,1,2,EAR calibrado (atributos da via),km fora da calibração,0.736,0.736,0.736,1,0.651,0.651,0.651,1,0.533,0.533,0.533,1
+com defasagem,para trás,6,1,2,Regra do EAR por faixas,mesmos km,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para trás,6,1,2,Regra do EAR por faixas,km fora da calibração,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para trás,6,1,2,EAR calibrado (atributos da via),mesmos km,0.734,0.734,0.734,1,0.677,0.677,0.677,1,0.519,0.519,0.519,1
+com defasagem,para trás,6,1,2,EAR calibrado (atributos da via),km fora da calibração,0.709,0.709,0.709,1,0.629,0.629,0.629,1,0.443,0.443,0.443,1
+com defasagem,para trás,5,1,2,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para trás,5,1,2,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para trás,5,1,2,EAR calibrado (atributos da via),mesmos km,0.711,0.711,0.711,1,0.652,0.652,0.652,1,0.458,0.458,0.458,1
+com defasagem,para trás,5,1,2,EAR calibrado (atributos da via),km fora da calibração,0.685,0.685,0.685,1,0.593,0.593,0.593,1,0.404,0.404,0.404,1
+com defasagem,para trás,4,1,2,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para trás,4,1,2,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para trás,4,1,2,EAR calibrado (atributos da via),mesmos km,0.683,0.683,0.683,1,0.653,0.653,0.653,1,0.361,0.361,0.361,1
+com defasagem,para trás,4,1,2,EAR calibrado (atributos da via),km fora da calibração,0.66,0.66,0.66,1,0.619,0.619,0.619,1,0.339,0.339,0.339,1
+com defasagem,para trás,3,1,2,Regra do EAR por faixas,mesmos km,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para trás,3,1,2,Regra do EAR por faixas,km fora da calibração,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para trás,3,1,2,EAR calibrado (atributos da via),mesmos km,0.743,0.743,0.743,1,0.67,0.67,0.67,1,0.609,0.609,0.609,1
+com defasagem,para trás,3,1,2,EAR calibrado (atributos da via),km fora da calibração,0.711,0.711,0.711,1,0.617,0.617,0.617,1,0.539,0.539,0.539,1
+com defasagem,para frente,3,1,4,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para frente,3,1,4,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para frente,3,1,4,EAR calibrado (atributos da via),mesmos km,0.661,0.661,0.661,1,0.622,0.622,0.622,1,0.392,0.392,0.392,1
+com defasagem,para frente,3,1,4,EAR calibrado (atributos da via),km fora da calibração,0.648,0.648,0.648,1,0.582,0.582,0.582,1,0.38,0.38,0.38,1
+com defasagem,para frente,4,1,4,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para frente,4,1,4,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.604,0.604,0.604,1,0.301,0.301,0.301,1
+com defasagem,para frente,4,1,4,EAR calibrado (atributos da via),mesmos km,0.705,0.705,0.705,1,0.657,0.657,0.657,1,0.426,0.426,0.426,1
+com defasagem,para frente,4,1,4,EAR calibrado (atributos da via),km fora da calibração,0.694,0.694,0.694,1,0.623,0.623,0.623,1,0.377,0.377,0.377,1
+com defasagem,para frente,5,1,4,Regra do EAR por faixas,mesmos km,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para frente,5,1,4,Regra do EAR por faixas,km fora da calibração,0.559,0.559,0.559,1,0.559,0.559,0.559,1,0.227,0.227,0.227,1
+com defasagem,para frente,5,1,4,EAR calibrado (atributos da via),mesmos km,0.736,0.736,0.736,1,0.651,0.651,0.651,1,0.539,0.539,0.539,1
+com defasagem,para frente,5,1,4,EAR calibrado (atributos da via),km fora da calibração,0.725,0.725,0.725,1,0.616,0.616,0.616,1,0.484,0.484,0.484,1
+com defasagem,para frente,6,1,4,Regra do EAR por faixas,mesmos km,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+com defasagem,para frente,6,1,4,Regra do EAR por faixas,km fora da calibração,0.565,0.565,0.565,1,0.55,0.55,0.55,1,0.243,0.243,0.243,1
+com defasagem,para frente,6,1,4,EAR calibrado (atributos da via),mesmos km,0.736,0.736,0.736,1,0.616,0.616,0.616,1,0.507,0.507,0.507,1
+com defasagem,para frente,6,1,4,EAR calibrado (atributos da via),km fora da calibração,0.718,0.718,0.718,1,0.575,0.575,0.575,1,0.461,0.461,0.461,1
+com defasagem,para frente,7,1,4,Regra do EAR por faixas,mesmos km,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+com defasagem,para frente,7,1,4,Regra do EAR por faixas,km fora da calibração,0.568,0.568,0.568,1,0.571,0.571,0.571,1,0.217,0.217,0.217,1
+com defasagem,para frente,7,1,4,EAR calibrado (atributos da via),mesmos km,0.786,0.786,0.786,1,0.669,0.669,0.669,1,0.575,0.575,0.575,1
+com defasagem,para frente,7,1,4,EAR calibrado (atributos da via),km fora da calibração,0.766,0.766,0.766,1,0.626,0.626,0.626,1,0.567,0.567,0.567,1
+com defasagem,para frente,8,1,4,Regra do EAR por faixas,mesmos km,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+com defasagem,para frente,8,1,4,Regra do EAR por faixas,km fora da calibração,0.574,0.574,0.574,1,0.55,0.55,0.55,1,0.241,0.241,0.241,1
+com defasagem,para frente,8,1,4,EAR calibrado (atributos da via),mesmos km,0.781,0.781,0.781,1,0.651,0.651,0.651,1,0.58,0.58,0.58,1
+com defasagem,para frente,8,1,4,EAR calibrado (atributos da via),km fora da calibração,0.762,0.762,0.762,1,0.602,0.602,0.602,1,0.571,0.571,0.571,1
+com defasagem,para frente,9,1,4,Regra do EAR por faixas,mesmos km,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+com defasagem,para frente,9,1,4,Regra do EAR por faixas,km fora da calibração,0.567,0.567,0.567,1,0.566,0.566,0.566,1,0.247,0.247,0.247,1
+com defasagem,para frente,9,1,4,EAR calibrado (atributos da via),mesmos km,0.745,0.745,0.745,1,0.678,0.678,0.678,1,0.571,0.571,0.571,1
+com defasagem,para frente,9,1,4,EAR calibrado (atributos da via),km fora da calibração,0.728,0.728,0.728,1,0.638,0.638,0.638,1,0.519,0.519,0.519,1
+com defasagem,para frente,10,1,4,Regra do EAR por faixas,mesmos km,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+com defasagem,para frente,10,1,4,Regra do EAR por faixas,km fora da calibração,0.576,0.576,0.576,1,0.562,0.562,0.562,1,0.281,0.281,0.281,1
+com defasagem,para frente,10,1,4,EAR calibrado (atributos da via),mesmos km,0.792,0.792,0.792,1,0.693,0.693,0.693,1,0.596,0.596,0.596,1
+com defasagem,para frente,10,1,4,EAR calibrado (atributos da via),km fora da calibração,0.773,0.773,0.773,1,0.655,0.655,0.655,1,0.561,0.561,0.561,1
+com defasagem,para trás,10,1,4,Regra do EAR por faixas,mesmos km,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+com defasagem,para trás,10,1,4,Regra do EAR por faixas,km fora da calibração,0.554,0.554,0.554,1,0.563,0.563,0.563,1,0.228,0.228,0.228,1
+com defasagem,para trás,10,1,4,EAR calibrado (atributos da via),mesmos km,0.699,0.699,0.699,1,0.621,0.621,0.621,1,0.472,0.472,0.472,1
+com defasagem,para trás,10,1,4,EAR calibrado (atributos da via),km fora da calibração,0.683,0.683,0.683,1,0.597,0.597,0.597,1,0.469,0.469,0.469,1
+com defasagem,para trás,9,1,4,Regra do EAR por faixas,mesmos km,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+com defasagem,para trás,9,1,4,Regra do EAR por faixas,km fora da calibração,0.579,0.579,0.579,1,0.579,0.579,0.579,1,0.313,0.313,0.313,1
+com defasagem,para trás,9,1,4,EAR calibrado (atributos da via),mesmos km,0.716,0.716,0.716,1,0.634,0.634,0.634,1,0.436,0.436,0.436,1
+com defasagem,para trás,9,1,4,EAR calibrado (atributos da via),km fora da calibração,0.697,0.697,0.697,1,0.605,0.605,0.605,1,0.395,0.395,0.395,1
+com defasagem,para trás,8,1,4,Regra do EAR por faixas,mesmos km,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+com defasagem,para trás,8,1,4,Regra do EAR por faixas,km fora da calibração,0.603,0.603,0.603,1,0.601,0.601,0.601,1,0.329,0.329,0.329,1
+com defasagem,para trás,8,1,4,EAR calibrado (atributos da via),mesmos km,0.73,0.73,0.73,1,0.648,0.648,0.648,1,0.5,0.5,0.5,1
+com defasagem,para trás,8,1,4,EAR calibrado (atributos da via),km fora da calibração,0.71,0.71,0.71,1,0.606,0.606,0.606,1,0.451,0.451,0.451,1
+com defasagem,para trás,7,1,4,Regra do EAR por faixas,mesmos km,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+com defasagem,para trás,7,1,4,Regra do EAR por faixas,km fora da calibração,0.631,0.631,0.631,1,0.617,0.617,0.617,1,0.341,0.341,0.341,1
+com defasagem,para trás,7,1,4,EAR calibrado (atributos da via),mesmos km,0.738,0.738,0.738,1,0.696,0.696,0.696,1,0.509,0.509,0.509,1
+com defasagem,para trás,7,1,4,EAR calibrado (atributos da via),km fora da calibração,0.712,0.712,0.712,1,0.654,0.654,0.654,1,0.435,0.435,0.435,1
+com defasagem,para trás,6,1,4,Regra do EAR por faixas,mesmos km,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+com defasagem,para trás,6,1,4,Regra do EAR por faixas,km fora da calibração,0.594,0.594,0.594,1,0.592,0.592,0.592,1,0.364,0.364,0.364,1
+com defasagem,para trás,6,1,4,EAR calibrado (atributos da via),mesmos km,0.689,0.689,0.689,1,0.656,0.656,0.656,1,0.398,0.398,0.398,1
+com defasagem,para trás,6,1,4,EAR calibrado (atributos da via),km fora da calibração,0.664,0.664,0.664,1,0.622,0.622,0.622,1,0.391,0.391,0.391,1
+com defasagem,para trás,5,1,4,Regra do EAR por faixas,mesmos km,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para trás,5,1,4,Regra do EAR por faixas,km fora da calibração,0.604,0.604,0.604,1,0.605,0.605,0.605,1,0.358,0.358,0.358,1
+com defasagem,para trás,5,1,4,EAR calibrado (atributos da via),mesmos km,0.752,0.752,0.752,1,0.689,0.689,0.689,1,0.552,0.552,0.552,1
+com defasagem,para trás,5,1,4,EAR calibrado (atributos da via),km fora da calibração,0.727,0.727,0.727,1,0.638,0.638,0.638,1,0.515,0.515,0.515,1
+com defasagem,para trás,4,1,4,Regra do EAR por faixas,mesmos km,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para trás,4,1,4,Regra do EAR por faixas,km fora da calibração,0.629,0.629,0.629,1,0.633,0.633,0.633,1,0.341,0.341,0.341,1
+com defasagem,para trás,4,1,4,EAR calibrado (atributos da via),mesmos km,0.729,0.729,0.729,1,0.683,0.683,0.683,1,0.519,0.519,0.519,1
+com defasagem,para trás,4,1,4,EAR calibrado (atributos da via),km fora da calibração,0.702,0.702,0.702,1,0.644,0.644,0.644,1,0.497,0.497,0.497,1
+com defasagem,para trás,3,1,4,Regra do EAR por faixas,mesmos km,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para trás,3,1,4,Regra do EAR por faixas,km fora da calibração,0.566,0.566,0.566,1,0.556,0.556,0.556,1,0.265,0.265,0.265,1
+com defasagem,para trás,3,1,4,EAR calibrado (atributos da via),mesmos km,0.7,0.7,0.7,1,0.651,0.651,0.651,1,0.476,0.476,0.476,1
+com defasagem,para trás,3,1,4,EAR calibrado (atributos da via),km fora da calibração,0.683,0.683,0.683,1,0.62,0.62,0.62,1,0.44,0.44,0.44,1

@@ -1,0 +1,31 @@
+fator,faixa,km,km_atingidos,eventos,pct_km_atingidos,eventos_por_100km_ano
+distância a pátio,até 300 m,2265,379,543.0,16.7,1.6
+distância a pátio,600 a 1.200 m,2082,226,266.0,10.9,0.85
+distância a pátio,mais de 1.800 m,16174,1489,1834.0,9.2,0.76
+raio de curva (eixo),menos de 500 m,11572,1420,1813.0,12.3,1.04
+raio de curva (eixo),500 a 1.200 m,5007,353,433.0,7.1,0.58
+raio de curva (eixo),1.200 a 2.300 m,1166,77,87.0,6.6,0.5
+raio de curva (eixo),2.300 m ou mais,3190,273,348.0,8.6,0.73
+trens por dia (capacidade vinculada),0,2606,138,166.0,5.3,0.42
+trens por dia (capacidade vinculada),até 1,4069,255,301.0,6.3,0.49
+trens por dia (capacidade vinculada),1 a 5,8279,1169,1507.0,14.1,1.21
+trens por dia (capacidade vinculada),5 a 15,2748,292,354.0,10.6,0.86
+trens por dia (capacidade vinculada),mais de 15,3234,269,353.0,8.3,0.73
+bitola,Larga,6392,250,292.0,3.9,0.3
+bitola,Mista,444,112,159.0,25.2,2.39
+bitola,Métrica,14100,1761,2230.0,12.5,1.05
+dormente,Aço,968,87,122.0,9.0,0.84
+dormente,Concreto,4343,202,252.0,4.7,0.39
+dormente,Mad/Aço,753,20,21.0,2.7,0.19
+dormente,Mad/Conc,966,51,66.0,5.3,0.46
+dormente,Madeira,13625,1763,2220.0,12.9,1.09
+perfil do trilho,TR 37,5276,673,842.0,12.8,1.06
+perfil do trilho,TR 45,3914,438,530.0,11.2,0.9
+perfil do trilho,TR 50,873,87,115.0,10.0,0.88
+perfil do trilho,TR 57,3616,255,320.0,7.1,0.59
+perfil do trilho,TR 60,465,97,121.0,20.9,1.73
+perfil do trilho,TR 68,4123,299,385.0,7.3,0.62
+perfil do trilho,UIC60,1939,171,214.0,8.8,0.74
+fixação,Flexível,10344,901,1173.0,8.7,0.76
+fixação,Ríg/Flex,1082,77,97.0,7.1,0.6
+fixação,Rígida,9229,1145,1411.0,12.4,1.02

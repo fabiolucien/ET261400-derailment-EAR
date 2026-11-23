@@ -1,0 +1,3 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,28.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-22,28 auditoria dos sorteios,Claude,"FOCUS: integridade da partição, estabilidade de Monte Carlo, permutação, deslocamento circular, alcance espacial",28_*.csv,6 gates

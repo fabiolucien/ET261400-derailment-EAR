@@ -1,0 +1,12 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+logística com atributos: AUC no país igual ao notebook 23 (mesmos sorteios),0.759,0.759,0.002,True,notebook 23
+critérios contínuos: AUC no país igual ao notebook 23,0.632,0.632,0.002,True,notebook 23
+Dummy da malha: AUC no país igual ao notebook 23,0.693,0.693,0.002,True,notebook 23
+logística com atributos: recall na classe muito alta igual à captura do notebook 23,0.51,0.51,0.005,True,notebook 23
+"gradient boosting: AUC dentro das malhas perto da dissertação (0,671; outros hiperparâmetros)",0.674,0.671,0.02,True,"dissertação v4, Tabela 22"
+"malha nunca vista: critérios contínuos perto da dissertação (0,643)",0.63,0.643,0.02,True,"dissertação v4, seção 7"
+vazamento: gradient boosting com rótulos embaralhados,0.507,"[0.45, 0.55]",,True,acaso

@@ -1,0 +1,4 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-22,24.1 dados e funções,Claude,FOCUS: mesmas funções e mesma matriz do notebook 23,"design, auc, lr",gates de contagem
+2026-11-22,25.1 decomposição,Claude,"FOCUS: separar pesos, AMV e medida contínua, mesmos sorteios do notebook 24",25_decomposicao_resumo.csv,2 gates contra o notebook 24
+2026-11-22,25.2 diferenças,Claude,FOCUS: IC por reamostragem de linhas inteiras,25_decomposicao_diferencas.csv,identidade da soma

@@ -1,0 +1,4 @@
+gate,got,expected,tol,ok,source
+células com tráfego interrompido excluídas,9119.0,9119.0,0.0,True,"Declaração de Rede 2025, campo sentido"
+células em operação,20936.0,20936.0,0.0,True,notebook 11
+universo A reproduz o notebook 18 (AUC do EAR calibrado),0.752,0.752,0.002,True,notebook 18

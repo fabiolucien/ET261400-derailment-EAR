@@ -1,0 +1,4 @@
+gate,got,expected,tol,ok,source
+células em operação,20936,20936,0.0,True,notebook 11
+descarrilamentos por via nas células,2681,2681,0.0,True,notebook 11
+origens no horizonte principal (3 anos),8,8,0.0,True,desenho: T de 2015 a 2022

@@ -1,0 +1,6 @@
+comparacao,dif_pais,ic_pais,sorteios_com_ganho_pais,dif_malha,ic_malha,sorteios_com_ganho_malha,dif_km_recall80
+"Regra do EAR, faixas da FNS − Regra do EAR, faixas da FICO (atual)",0.005,-0.001 a 0.010,30,-0.0,-0.004 a 0.005,0,0.001
+"Regra do EAR recalibrada (faixas e peso aferidos) − Regra do EAR, faixas da FICO (atual)",0.023,0.005 a 0.038,30,0.017,0.003 a 0.032,30,-0.009
+"EAR v2 por pontos (8 critérios de projeto) − Regra do EAR, faixas da FICO (atual)",0.114,0.054 a 0.160,30,0.011,-0.022 a 0.031,24,-0.161
+EAR v2 por pontos (8 critérios de projeto) − Regra do EAR recalibrada (faixas e peso aferidos),0.091,0.026 a 0.140,30,-0.006,-0.044 a 0.019,10,-0.152
+"Logística com atributos (notebook 24, referência) − EAR v2 por pontos (8 critérios de projeto)",0.057,0.032 a 0.082,30,0.063,0.022 a 0.093,30,-0.069

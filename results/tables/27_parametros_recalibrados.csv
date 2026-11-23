@@ -1,0 +1,4 @@
+criterio,limites_m,em_comprimentos_de_trem
+Distância ao pátio (AMV),"(250, 1000, 1500, 3000)","(0.15, 0.59, 0.89, 1.78)"
+Raio de curva,"(250, 300, 600)",
+Peso do pátio na regra,0.6,
