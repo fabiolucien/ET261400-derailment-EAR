@@ -20,7 +20,8 @@ SEQ = [("15_previsao_malha_em_operacao", "primeira versão do modelo com histór
        ("28_auditoria_sorteios", "auditoria dos 30 sorteios: integridade da partição, estabilidade, permutação de rótulos e nulo que preserva o agrupamento espacial", "nota da Tabela 1 e seção 2.3"),
        ("29_fatores_dentro_das_malhas", "fatores da Declaração de Rede dentro das malhas: classes e regra declaradas antes, Mantel-Haenszel, placebo, Holm e conciliação com o artigo", "seção 3.1"),
        ("30_ear_v3_ferrovia_nova", "multiplicadores do EAR e teste como ferrovia nova (cada malha inteira fora), com limites reescolhidos sem a malha testada", "seção 3.2"),
-       ("31_monte_carlo_posicao", "Monte Carlo do erro de posição (seis cenários), SIMEX e conferência do artefato de pátio", "seção 3.2 e Conclusões")]
+       ("31_monte_carlo_posicao", "Monte Carlo do erro de posição (seis cenários), SIMEX e conferência do artefato de pátio", "seção 3.2 e Conclusões"),
+       ("32_antes_depois_dominio", "antes e depois do pátio: PN, simetria, limite de 500 m ou 1 km, linhas duplicadas e de pouco tráfego, critério novo", "seção 3.2")]
 
 cells = []
 md = lambda s: cells.append(nbf.v4.new_markdown_cell(s))
@@ -86,7 +87,7 @@ code(r'''import glob
 G = []
 for f in sorted(glob.glob(f"{TAB}/*_gates.csv")):
     nome = os.path.basename(f).replace("_gates.csv", "")
-    if nome in [str(n) for n in range(15, 32)]:  # passos 15 a 31
+    if nome in [str(n) for n in range(15, 33)]:  # passos 15 a 32
         d = pd.read_csv(f); d.insert(0, "notebook", nome); G.append(d)
 G = pd.concat(G, ignore_index=True); G.to_csv(f"{TAB}/00_gates_sequencia_artigo.csv", index=False)
 res = G.groupby("notebook")["ok"].agg(gates="size", passaram="sum"); res["falharam"] = res["gates"] - res["passaram"]; display(res)
