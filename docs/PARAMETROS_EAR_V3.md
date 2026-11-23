@@ -137,6 +137,10 @@ Registro completo em `revisoes/revisao3_respostas.md`.
 - **Conclusões:** alta "entre 500 m e 1 km"; o tráfego vai para a etapa de frequência; limitação sobre linha de pátio.
 - **Contagem:** 2.994 palavras na contagem conservadora; resumo com 198.
 
+**Versão 11 (revisão externa 4, 23/11, 0h15 a 0h40):** resumo coerente com o Monte Carlo (o excesso perto do pátio resiste ao erro de posição; o limite exato, não); Holm e efeito fixo de malha nomeados em Dados e Métodos; carga por eixo informada (acima de 30 t, RR 1,92; IC 1,37 a 3,22); teste do sinal na ferrovia nova (p = 0,003); matriz de confusão que soma 20.936; verbos calibrados ("partly", "limit leakage", "better match"); Dados e Métodos com 999 palavras; total de 2.985.
+
+**Execução do zero (23/11, 23h40 a 0h35):** 17 passos, 153 de 153 gates; as tabelas dos passos 15 a 28 saíram idênticas byte a byte às da execução anterior, e o texto do artigo preenchido com as tabelas novas não mudou em nenhum número.
+
 **Ficou no repositório e nos slides de reserva:** a tabela completa de multiplicadores, os 12 fatores, os seis cenários, o caso Norte-Sul e a ferramenta de aplicação.
 
 ## 9. Limites honestos
