@@ -152,3 +152,14 @@ notebook,gate,got,expected,tol,ok,source
 31,"G3 regra FICO, AUC dentro das malhas sem erro",0.589,0.589,0.002,True,27_regras_resumo.csv
 31,G4 deslocamento zero reproduz a distância ao pátio,0.0,0.0,1e-09,True,definição
 31,G6 SIMEX: nível zero igual ao RR observado da célula do pátio,1.969,1.969,1e-09,True,definição
+32,células em operação,20936.0,20936,0.0,True,notebook 11
+32,descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+32,quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+32,regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+32,G1 célula do pátio (notebook 27),1.969,1.969,0.001,True,27_perfil_distancia_patio.csv
+32,G1 até 1 km (notebook 27),1.87,1.87,0.001,True,27_perfil_distancia_patio.csv
+32,G2 regra FICO dentro das malhas,0.589,0.589,0.002,True,notebook 24
+32,"G5 B com limites fixos, malha fora até 20 km",0.647,"[0.62, 0.67]",,True,"notebook 30 (0,645 com limites reescolhidos)"
+32,G3 eventos por via com campos do RAAF,2681.0,2681,0.0,True,notebook 11
+32,G3 eventos por via em PN,144.0,144,0.0,True,"contagem direta do campo PN do RAAF, conferida fora do notebook"
+32,"G4 placebo de lado, razão média até 1 km",1.023,"[0.95, 1.05]",,True,lados sorteados: razão esperada 1

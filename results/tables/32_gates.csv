@@ -1,0 +1,12 @@
+gate,got,expected,tol,ok,source
+células em operação,20936.0,20936,0.0,True,notebook 11
+descarrilamentos por via,2681.0,2681,0.0,True,notebook 11
+quilômetros com descarrilamento por via em 2011 a 2025,2123.0,2123,0.0,True,notebook 11
+regra do EAR no período inteiro,0.588,0.588,0.002,True,notebook 11 e dissertação v4
+G1 célula do pátio (notebook 27),1.969,1.969,0.001,True,27_perfil_distancia_patio.csv
+G1 até 1 km (notebook 27),1.87,1.87,0.001,True,27_perfil_distancia_patio.csv
+G2 regra FICO dentro das malhas,0.589,0.589,0.002,True,notebook 24
+"G5 B com limites fixos, malha fora até 20 km",0.647,"[0.62, 0.67]",,True,"notebook 30 (0,645 com limites reescolhidos)"
+G3 eventos por via com campos do RAAF,2681.0,2681,0.0,True,notebook 11
+G3 eventos por via em PN,144.0,144,0.0,True,"contagem direta do campo PN do RAAF, conferida fora do notebook"
+"G4 placebo de lado, razão média até 1 km",1.023,"[0.95, 1.05]",,True,lados sorteados: razão esperada 1

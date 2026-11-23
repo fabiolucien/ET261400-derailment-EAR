@@ -1,5 +1,5 @@
 data,passo,ferramenta,especificacao,resultado,verificacao
-2026-11-22,22.1 dados e funções,Claude,FOCUS: mesmas funções do notebook 18,"design, historico, auc",2 gates de contagem
-2026-11-22,22.2 figura 2,Claude,FOCUS: mapa da classe muito alta (quintil superior) calibrada no passado contra descarrilamentos do período seguinte; curva de taxa de predição,22_mapa_particao_temporal.png,gate do número de células posicionadas
-2026-11-22,22.3 taxas por fator,Claude,"FOCUS: taxa por 100 km por ano, um fator por vez, só faixas com pelo menos 300 km",22_taxas_por_fator.csv,gate de soma por bitola
-2026-11-22,22.4 modelo de linguagem,Claude,FOCUS: recomputar kappa e cobertura a partir dos rótulos gravados,22_llm_amostra_B.csv,3 gates contra o notebook 04b
+2026-11-23,22.1 dados e funções,Claude,FOCUS: mesmas funções do notebook 18,"design, historico, auc",2 gates de contagem
+2026-11-23,22.2 figura 2,Claude,FOCUS: mapa da classe muito alta (quintil superior) calibrada no passado contra descarrilamentos do período seguinte; curva de taxa de predição,22_mapa_particao_temporal.png,gate do número de células posicionadas
+2026-11-23,22.3 taxas por fator,Claude,"FOCUS: taxa por 100 km por ano, um fator por vez, só faixas com pelo menos 300 km",22_taxas_por_fator.csv,gate de soma por bitola
+2026-11-23,22.4 modelo de linguagem,Claude,FOCUS: recomputar kappa e cobertura a partir dos rótulos gravados,22_llm_amostra_B.csv,3 gates contra o notebook 04b

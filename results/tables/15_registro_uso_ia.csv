@@ -1,3 +1,3 @@
 data,passo,ferramenta,especificacao,resultado,verificacao
-2026-11-22,15.1 dados e histórico,Claude,FOCUS: histórico por ano de observação até T; vizinhança de 20 km na mesma linha; nada posterior a T,"historico(T), W",4 gates de contagem e de período
-2026-11-22,15.2 janela móvel,Claude,"FOCUS: sete cortes; ajuste no passado, previsão dos 3 anos seguintes; métricas na malha inteira e nos km sem acidente anterior",15_previsao_*.csv,gate de número de cortes; asserções de janelas disjuntas
+2026-11-23,15.1 dados e histórico,Claude,FOCUS: histórico por ano de observação até T; vizinhança de 20 km na mesma linha; nada posterior a T,"historico(T), W",4 gates de contagem e de período
+2026-11-23,15.2 janela móvel,Claude,"FOCUS: sete cortes; ajuste no passado, previsão dos 3 anos seguintes; métricas na malha inteira e nos km sem acidente anterior",15_previsao_*.csv,gate de número de cortes; asserções de janelas disjuntas

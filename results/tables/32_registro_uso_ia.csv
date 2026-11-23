@@ -1,0 +1,7 @@
+data,passo,ferramenta,especificacao,resultado,verificacao
+2026-11-23,32.0 dados e funções,Claude,"FOCUS: mesmas funções, matriz e protocolo dos notebooks 24 e 25","design, auc, lr",gates de contagem
+2026-11-23,32.0 base,Claude,FOCUS do notebook 32; funções dos notebooks 27 e 30,"rr_mh, perfil",G1 e G2
+2026-11-23,32.1 limite,Claude,"FOCUS: perfil fino, regra com 1 km e 500 m, malha fora","32_perfil_fino_patio.csv, 32_limite_500m_1km.csv, 32_malha_fora_500m_1km.csv",G5
+2026-11-23,32.2 PN,Claude,FOCUS: perfil sem eventos em PN e só com trecho corrido,32_pn_e_local.csv,G3
+2026-11-23,32.3 simetria,Claude,"FOCUS: risco relativo por lado do pátio, IC por linhas, placebo",32_simetria_lados.csv,G4
+2026-11-23,32.4 domínios e critério novo,Claude,FOCUS: variantes D1 a D5 declaradas antes; interação singela e dupla,"32_dominios.csv, 32_singela_dupla.csv",D0 reproduz os notebooks 24 e 27

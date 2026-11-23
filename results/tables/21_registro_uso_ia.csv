@@ -1,3 +1,3 @@
 data,passo,ferramenta,especificacao,resultado,verificacao
-2026-11-22,21.1 desenhos declarados,Claude,"FOCUS: cinco desenhos de validação temporal com referência; só atributos da via, mais histórico no D1",lista J,3 gates de contagem; gate do número de avaliações
-2026-11-22,21.2 bateria executada,Claude,FOCUS: cinco desenhos declarados; todos reportados; IC por reamostragem de linhas,21_validacao_temporal_*.csv,2 gates de reprodução do notebook 18
+2026-11-23,21.1 desenhos declarados,Claude,"FOCUS: cinco desenhos de validação temporal com referência; só atributos da via, mais histórico no D1",lista J,3 gates de contagem; gate do número de avaliações
+2026-11-23,21.2 bateria executada,Claude,FOCUS: cinco desenhos declarados; todos reportados; IC por reamostragem de linhas,21_validacao_temporal_*.csv,2 gates de reprodução do notebook 18
