@@ -86,7 +86,7 @@ code(r'''import glob
 G = []
 for f in sorted(glob.glob(f"{TAB}/*_gates.csv")):
     nome = os.path.basename(f).replace("_gates.csv", "")
-    if nome in ("15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27"):
+    if nome in [str(n) for n in range(15, 32)]:  # passos 15 a 31
         d = pd.read_csv(f); d.insert(0, "notebook", nome); G.append(d)
 G = pd.concat(G, ignore_index=True); G.to_csv(f"{TAB}/00_gates_sequencia_artigo.csv", index=False)
 res = G.groupby("notebook")["ok"].agg(gates="size", passaram="sum"); res["falharam"] = res["gates"] - res["passaram"]; display(res)
