@@ -1,7 +1,27 @@
 ---
 title: "Parâmetros do EAR atualizados com o registro de acidentes"
-subtitle: "ET 261400 · Fábio Lucien David Maciel · 23/11/2026 · notebooks 29, 30 e 31, revisados por ChatGPT, Gemini e Claude"
+subtitle: "ET 261400 · Fábio Lucien David Maciel · 23/11/2026 · notebooks 29 a 32, revisados por ChatGPT, Gemini e Claude"
 ---
+
+## 0. Resposta direta: o que muda no EAR
+
+O estudo não cria critério novo de suscetibilidade. Mantém os dois critérios técnicos dos EAR da Norte-Sul e da FICO (distância ao pátio ou AMV e raio de curva), as quatro classes e a soma ponderada. Mudam os limites das faixas e o peso do pátio.
+
+| Item | EAR da FNS (2015) | EAR da FICO (2016) | Atualizado por este estudo |
+|---|---|---|---|
+| Distância ao AMV ou pátio, muito alta | até 200 m | até 300 m | célula do pátio (até 250 m da ponta) |
+| Distância, alta | 200 a 400 m | 300 a 600 m | até 1 km (o limite fica entre 500 m e 1 km; o EAR usa 1 km) |
+| Distância, moderada | 400 a 800 m | 600 a 1.200 m | 1 a 1,5 km |
+| Distância, baixa | 800 a 1.600 m | 1.200 a 1.800 m | 1,5 a 3 km |
+| Raio, classe alta | abaixo de 500 m | abaixo de 500 m | abaixo de 250 m |
+| Raio, classe média | 500 a 800 m | 500 a 1.200 m | 250 a 300 m |
+| Raio, classe baixa | 800 a 1.200 m | 1.200 a 2.300 m | 300 a 600 m (acima de 600 m não difere da tangente) |
+| Pesos (pátio e raio) | iguais | iguais | pátio 0,5 a 0,6; raio 0,5 a 0,4 |
+| Lados do pátio | buffer nos dois lados | buffer nos dois lados | dois lados (risco igual antes e depois, notebook 32) |
+| PN e OAE | faixas de distância | faixas de distância | sem dado nacional para aferir; mantidos como no EAR original |
+| Tráfego | etapa de frequência | etapa de frequência | etapa de frequência; não entra nas faixas |
+
+**Critérios novos testados e não adotados:** os 12 atributos da Declaração de Rede (só tráfego e carga por eixo mudam o risco dentro das malhas; o tráfego é exposição e a carga por eixo não melhora a ordenação de uma ferrovia nova); PN (o excesso perto do pátio se mantém sem os descarrilamentos em PN); OAE e PN do OpenStreetMap na FCA (sem ganho, notebook 11); linha singela ou dupla (sem efeito próprio dentro das malhas, notebook 29). **Ganho medido:** dentro das malhas, 0,59 para 0,61 com as faixas novas e 0,60 para 0,65 numa ferrovia fora do ajuste, com tráfego como exposição; o resultado fica igual com só linha singela.
 
 ## 1. Em cinco linhas
 
@@ -100,6 +120,27 @@ Exemplo: na Norte-Sul (FNSTN), a classe muito alta (10% da extensão, 72 km) re�
 - **SIMEX** (extrapola para erro zero no km): célula do pátio 1,91; até 1 km 2,18; 1 a 1,5 km 1,08; raio abaixo de 300 m 1,55. O erro atenua pouco os resultados.
 - **Artefato de pátio:** os km inteiros não se concentram na célula do pátio (25% contra 29% nas demais). Sem os eventos no km exato do pátio, a célula mantém excesso (1,72). Sem todos os eventos dentro da extensão do pátio, a célula do pátio cai para 0,69, e o km seguinte mantém 1,81. O RAAF de 2011–2025 não separa linha de pátio e linha principal, então essa parte fica em aberto.
 
+## 6a. Antes e depois do pátio, 500 m ou 1 km, Vale e trechos de pouco tráfego (notebook 32)
+
+Regras de decisão escritas antes dos resultados (início do notebook 32). Respostas:
+
+1. **PN e OAE vizinhos não explicam o excesso perto do pátio.** Sem os 144 descarrilamentos que o RAAF marca em PN, a célula do pátio fica em 1,96 (IC 1,60 a 2,42) e o km seguinte em 1,89 (1,23 a 2,48), iguais ao resultado com todos (1,97 e 1,87). OAE não tem inventário nacional; na FCA, com as pontes do OpenStreetMap, elas não melhoraram o modelo (notebook 11).
+2. **Só eventos registrados como trecho corrido (2021–2025, 433 eventos):** célula do pátio 1,28 (0,99 a 1,80) e km seguinte 1,61 (0,59 a 2,98). Inconclusivo pelo número pequeno, mas na mesma direção: parte do excesso da célula do pátio vem de eventos dentro do pátio, e o km seguinte mantém o excesso.
+3. **Os dois lados do pátio têm o mesmo risco.** Razão entre o lado de km crescente e o de km decrescente: até 1 km, 1,29 (0,93 a 1,73); 1 a 1,5 km, 0,95; 1,5 a 3 km, 1,06; todos os IC contêm 1. A faixa vale antes e depois, como no EAR. O RAAF não registra o sentido do trem.
+4. **500 m ou 1 km.** Com células de 1 km, quase não há células entre 250 e 750 m do pátio (10 de 20.936): os dados não separam 500 m de 1 km. As células de 750 m a 1 km, as únicas que mudam de classe, têm risco perto do dobro (1,93; IC 1,29 a 2,45), tanto em 2011–2018 (1,99) quanto em 2019–2025 (1,68, IC largo). A ordenação dentro das malhas muda no máximo 0,002 entre as duas versões, nos dois períodos e na ferrovia fora do ajuste (1 km à frente em 8 de 12 malhas, teste do sinal p = 0,19). Decisão pela regra: faixa alta "de 500 m a 1 km"; o EAR usa 1 km, que cobre o trecho de maior risco por inteiro e marca 13,2% da via como alta ou muito alta (10,9% com 500 m).
+5. **Sem a Vale, só singela, só tráfego maior** (variantes declaradas antes; logística e regras em 10 sorteios):
+
+| Domínio | Células | km atingidos | FICO dentro das malhas | Faixas novas dentro | Logística no país | Logística dentro | Limites escolhidos no domínio | Célula do pátio; até 1 km |
+|---|---|---|---|---|---|---|---|---|
+| Todas | 20.936 | 2.123 | 0,589 | 0,606 | 0,759 | 0,663 | 250, 1.000, 1.500, 3.000 m; raio 250, 300, 600 | 1,97; 1,87 |
+| Sem EFVM e EFC (linha dupla da Vale) | 19.091 | 2.052 | 0,588 | 0,606 | 0,757 | 0,665 | iguais | 2,00; 1,97 |
+| Só linha singela | 19.098 | 1.981 | 0,585 | 0,601 | 0,755 | 0,660 | iguais | 2,02; 2,13 |
+| Sem malhas com menos de 50 km atingidos | 14.145 | 1.952 | 0,589 | 0,606 | 0,710 | 0,672 | iguais | 1,95; 1,95 |
+| 3 ou mais trens por dia | 7.655 | 775 | 0,623 | 0,636 | 0,784 | 0,634 | 250, 1.000, 1.500, 2.000 m; raio 250, 600, 2.300 | 2,05; 1,75 |
+| Singela e 3 ou mais trens por dia | 5.819 | 634 | 0,617 | 0,629 | 0,766 | 0,613 | 250, 1.000, 1.500, 2.000 m; raio 250, 400, 600 | 2,26; 2,17 |
+
+Leitura: tirar a Vale ou ficar só com a linha singela não muda as faixas nem a ordenação; o excesso perto do pátio fica um pouco mais forte na singela. Na linha dupla, o excesso perto do pátio não aparece (0,81 na célula do pátio, IC 0,53 a 2,47; a referência da linha dupla tem só 53 células e 12 km atingidos), o que é coerente com a ideia de que as faixas do EAR descrevem os pátios de cruzamento da linha singela. Nos trechos com 3 ou mais trens por dia as regras ordenam um pouco melhor (0,62 a 0,64), mas o domínio tem 37% da via e 36% dos km atingidos, e a logística dentro das malhas cai; AUC de domínios diferentes não se comparam diretamente. Escolher o domínio pela maior AUC seria viés de seleção; a malha inteira fica como resultado principal, e a linha singela pode ser declarada como domínio de aplicação na dissertação, com justificativa física e o resultado da malha inteira ao lado.
+
 ## 7. Revisão externa (ChatGPT, Gemini e Claude, 22/11, 23h10)
 
 Notas das três análises: 29, de 7,5 a 8,5; 30, de 7,0 a 7,5; 31, de 7,0 a 8,5. Pontos em comum, todos atendidos antes desta nota:
@@ -139,7 +180,7 @@ Registro completo em `revisoes/revisao3_respostas.md`.
 
 **Versão 11 (revisão externa 4, 23/11, 0h15 a 0h40):** resumo coerente com o Monte Carlo (o excesso perto do pátio resiste ao erro de posição; o limite exato, não); Holm e efeito fixo de malha nomeados em Dados e Métodos; carga por eixo informada (acima de 30 t, RR 1,92; IC 1,37 a 3,22); teste do sinal na ferrovia nova (p = 0,003); matriz de confusão que soma 20.936; verbos calibrados ("partly", "limit leakage", "better match"); Dados e Métodos com 999 palavras; total de 2.985.
 
-**Execução do zero (23/11, 23h40 a 0h35):** 17 passos, 153 de 153 gates; as tabelas dos passos 15 a 28 saíram idênticas byte a byte às da execução anterior, e o texto do artigo preenchido com as tabelas novas não mudou em nenhum número.
+**Execução do zero (23/11, 0h54 a 1h52, já com o passo 32):** 18 passos, 164 de 164 gates; antes, às 23h40, 17 passos e 153 de 153; as tabelas dos passos 15 a 28 saíram idênticas byte a byte às da execução anterior, e o texto do artigo preenchido com as tabelas novas não mudou em nenhum número.
 
 **Ficou no repositório e nos slides de reserva:** a tabela completa de multiplicadores, os 12 fatores, os seis cenários, o caso Norte-Sul e a ferramenta de aplicação.
 
