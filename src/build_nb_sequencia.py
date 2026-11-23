@@ -16,7 +16,11 @@ SEQ = [("15_previsao_malha_em_operacao", "primeira versão do modelo com histór
        ("24_testes_finais_modelos", "modelos da aula 6 no mesmo protocolo, matriz de confusão, hiperparâmetros, malha nunca vista e vazamento", "Tabela 2 e seção 3.1"),
        ("25_decomposicao_criterios_ear", "decomposição do ganho dos critérios do EAR: pesos aprendidos, AMV e medida contínua", "seção 3.1 (medida contínua)"),
        ("26_testes_da_revisao", "testes pedidos pela revisão: anos e trechos fora ao mesmo tempo, calibração (Brier) e modelo de linguagem na mesma cobertura do TF-IDF", "seções 3.3 e 3.4, Tabelas 1 e 2"),
-       ("27_parametros_ear_aferidos", "novos parâmetros do EAR: faixas da FNS e da FICO aferidas com o risco relativo no Brasil e o bloco descarrilado nos EUA, recalibração aninhada", "seção 3.2, Figura 1 e Tabela 1")]
+       ("27_parametros_ear_aferidos", "novos parâmetros do EAR: faixas da FNS e da FICO aferidas com o risco relativo no Brasil e o bloco descarrilado nos EUA, recalibração aninhada", "seção 3.2, Figura 1 e Tabela 1"),
+       ("28_auditoria_sorteios", "auditoria dos 30 sorteios: integridade da partição, estabilidade, permutação de rótulos e nulo que preserva o agrupamento espacial", "nota da Tabela 1 e seção 2.3"),
+       ("29_fatores_dentro_das_malhas", "fatores da Declaração de Rede dentro das malhas: classes e regra declaradas antes, Mantel-Haenszel, placebo, Holm e conciliação com o artigo", "seção 3.1"),
+       ("30_ear_v3_ferrovia_nova", "multiplicadores do EAR e teste como ferrovia nova (cada malha inteira fora), com limites reescolhidos sem a malha testada", "seção 3.2"),
+       ("31_monte_carlo_posicao", "Monte Carlo do erro de posição (seis cenários), SIMEX e conferência do artefato de pátio", "seção 3.2 e Conclusões")]
 
 cells = []
 md = lambda s: cells.append(nbf.v4.new_markdown_cell(s))
@@ -33,7 +37,7 @@ Este notebook executa, em ordem e do zero, todos os cálculos que sustentam o sh
 ## Como executar no Colab
 
 1. Envie o arquivo `et261400_colab.zip` pelo painel de arquivos do Colab (ícone de pasta, à esquerda), ou deixe-o no Google Drive em `MyDrive/ET261400/colab/et261400_colab.zip`.
-2. Menu Ambiente de execução → Executar tudo. Tempo esperado: de 95 a 120 minutos no Colab (o passo 10, com os cinco modelos em 30 sorteios, leva cerca de 30).
+2. Menu Ambiente de execução → Executar tudo. Tempo esperado: de 120 a 150 minutos no Colab (o passo 10, com os cinco modelos em 30 sorteios, leva cerca de 30).
 
 O pacote traz só dados públicos já processados: células de 1 km das 13 malhas (Declarações de Rede de 2025 e eixo da malha, ANTT), descarrilamentos do RAAF de 2011 a 2025 (ANTT), posição das células no mapa, narrativas da base americana (FRA, Form 54) e os rótulos gravados dos modelos de linguagem. Não há chave de API neste notebook.
 
